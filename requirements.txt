@@ -1,0 +1,6 @@
+pandas 
+numpy 
+matplotlib
+seaboen
+scikit-learn
+opendatasets
