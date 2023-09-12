@@ -4,4 +4,6 @@ matplotlib
 seaborn
 scikit-learn
 opendatasets
+flask
+streamlit
 -e .
