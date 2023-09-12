@@ -1,6 +1,7 @@
 pandas 
 numpy 
 matplotlib
-seaboen
+seaborn
 scikit-learn
 opendatasets
+-e .
