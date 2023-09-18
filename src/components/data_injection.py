@@ -9,6 +9,7 @@ from sklearn.model_selection import train_test_split
 from dataclasses import dataclass
 from src.logger import logging
 from src.exception import CustomException
+from src.components.data_transformation import Distribution_Outliers
 @dataclass
 class DataInjectionConfig:
     raw_train_file_path:str= RAW_TRAIN_DATASET_PATH
@@ -37,16 +38,16 @@ class DataInjection:
             logging.info('splitting train and test data compleeted')
             os.makedirs(os.path.dirname(self.data_injection_config.train_file_path),exist_ok=True)
             train_set.to_csv(self.data_injection_config.train_file_path)
+            logging.info(f'train head{train_set.head()}')
             logging.info('train data stored in artifacts /data_injection /injected data/train_data')
             os.makedirs(os.path.dirname(self.data_injection_config.test_file_path),exist_ok=True)
             test_set.to_csv(self.data_injection_config.test_file_path)
+            test_set.head()
             logging.info('train data stored in artifacts /data_injection /injected data/test_data')
 
-            return (self.data_injection_config.train_file_path,
-
-                    self.data_injection_config.test_file_path
+            return train_set, test_set
     
-            )
+     
 
         except Exception as e:
             raise CustomException(e, sys)
@@ -56,6 +57,19 @@ class DataInjection:
         
 if __name__ == "__main__":
     obj = DataInjection()
-   
+    out_liers=Distribution_Outliers()
     train_path, test_path=obj.Initiate_data_injection() 
-        
+    if isinstance(train_path, pd.DataFrame):
+
+        out_liers.detect_and_visualize_outliers(train_path)
+    else:
+        print("train_data is not a DataFrame")
+
+    if isinstance(test_path, pd.DataFrame):
+
+        out_liers.detect_and_visualize_outliers(test_path)
+    else:
+        print("test_data is not a DataFrame")
+    
+    train_path,test_path=out_liers.outliers_removal(train_path),out_liers.outliers_removal(test_path)
+   

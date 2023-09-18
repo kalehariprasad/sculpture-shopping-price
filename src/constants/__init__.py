@@ -20,5 +20,14 @@ DATA_INJECTION_INJECTED_DATA_FOLDER='Injected train & test data'
 DATA_INJECTION_INJECTED_DATA_FILE='injected raw file.csv'
 INJECTED_TRAIN_DATA='train.csv'
 INJECTED_TEST_DATA='test.csv'
+## data transformation variables
+
+DATA_TRANSFORMATION_FOLDER='Data trransformation'
+PRE_PROCESSING_FOLDER='Preprocessing'
+PRE_PROCESSING_OBJECT='preprocessor.pkl'
+FEATURE_ENGINEERING_OBJECT='feature_enginrrting.pkl'
+TRANSFORMED_DATA_FOLEDR='Transformed data'
+TRANSFORMED_TRAIN='Transformed_train.csv'
+TRANSFORMED_TEST='Transformed_test.csv'
 
 
