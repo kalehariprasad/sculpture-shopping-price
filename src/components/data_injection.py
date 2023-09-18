@@ -28,6 +28,10 @@ class DataInjection:
 
 
     def Initiate_data_injection(self):
+        """
+        this method is Resposible for injecting data from local machine
+        to current working directory
+        """
         try:
             logging.info('data injection started  with existing dataset')
             df=pd.read_csv(CURRENT_DATA_PATH)
