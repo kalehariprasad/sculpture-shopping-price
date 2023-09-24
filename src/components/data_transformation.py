@@ -63,6 +63,39 @@ class FeatureEngineering:
         
     except Exception as e:
       raise CustomException(e, sys)
+
+  @staticmethod
+  def fe_pipline():
+
+    """
+    This method is only responsible for creating a feature engineering pipeline.
+    """
+    try:
+        df = pd.read_csv(CURRENT_DATA_PATH)
+        fe_instance = FeatureEngineering()
+        cleaned_df = fe_instance.Cleaning_Dataset(df=df)
+        outlier = fe_instance.outliers_removal(df=cleaned_df)
+        cleaned_df_pipeline = Pipeline([
+          ('clean_df', cleaned_df)
+        ])
+
+        outlier_pipeline = Pipeline([
+            ('outlier removel', outlier)
+        ])
+
+        feature_engineering_object = ColumnTransformer([
+            ('clean_df', cleaned_df_pipeline, cleaned_df.columns), 
+            ('outlier removel', outlier_pipeline, outlier.columns)  
+        ], remainder='passthrough')
+        
+        return feature_engineering_object
+    except Exception as e:
+        raise CustomException(e, sys)
+
+
+    except Exception as e:
+      raise CustomException(e, sys)
+    
 @dataclass
 class DataTransformationConfig():
   processor_object_path=TRANSFORMER_OBJECT_FILE
@@ -110,7 +143,9 @@ class DataTransformation:
     this method is used for creating an instance of FeatureEngineering class
     """
     try:
-        feature_engineering_object = FeatureEngineering()
+        
+        fe_instance = FeatureEngineering()
+        feature_engineering_object = fe_instance.fe_pipline()
         return feature_engineering_object
     except Exception as e:
         raise CustomException(e, sys)
@@ -119,22 +154,29 @@ class DataTransformation:
     try:
       train_df=pd.read_csv(train_path)
       test_df=pd.read_csv(test_path)
+      logging.info(f'train_df 5 rows are :{train_df.head()}')
+      logging.info(f'test_df 5 rows are :{test_df.head()}')
       logging.info('getting feature engineering object in initiate data transformsation')
       fe_obj=self.get_feature_engineering_object()
-      logging.info('applying feature engineering pipeline in intiate data transformation')
+      logging.info('applying feature engineering pipeline in initiate data transformation')
+      
       train_df_fe=fe_obj.fit_transform(train_df)
       test_df_fe=fe_obj.transform(test_df)
-      logging.info('applying feature engineering pipeline in intiate data transformation compleeted')
+      logging.info('applying feature engineering pipeline in initiate data transformation compleeted')
 
       preprocessor_obj=self.get_preprocessor_object()
 
       target_column='Cost'
-      X_train=train_df_fe.drop(target_column,axis=1)
-      X_test=train_df_fe[target_columns]
-      y_train=test_df_fe.drop(target_column,axis=1)
-      y_test=test_df_fe[target_columns]
-      logg
-      return (X_train,X_test,y_train,y_test)
+      X_train = train_df_fe.drop(target_column, axis=1)
+      logging.info(f"Shape of train_df_fe: {train_df_fe.shape}")
+      logging.info(f"Shape of X_train: {X_train.shape}")
+      X_test = test_df_fe.drop(target_column, axis=1)  
+      logging.info(f"Shape of test_df_fe: {test_df_fe.shape}")
+      logging.info(f"Shape of X_test: {X_test.shape}")
+      y_train = train_df_fe[target_column]
+      y_test = test_df_fe[target_column]
+      
+      return  X_train,X_test,y_train,y_test
 
     except Exception as e:
       raise CustomException(e, sys)

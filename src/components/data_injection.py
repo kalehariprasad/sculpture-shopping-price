@@ -67,4 +67,4 @@ if __name__ == "__main__":
     out_liers=FeatureEngineering()
     train_path, test_path=obj.Initiate_data_injection() 
     transform_object=DataTransformation()
-    train_df,test_df=transform_object.initiate_data_transformation( train_path, test_path)
+    X_train, X_test, y_train, y_test = transform_object.initiate_data_transformation(train_path, test_path)
