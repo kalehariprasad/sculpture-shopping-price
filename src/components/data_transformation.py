@@ -14,87 +14,52 @@ from src.logger import logging
 from src.exception import CustomException
 
 
+
 class FeatureEngineering:
-  def __init__(self):
-    pass
-  def Cleaning_Dataset(self, df):
-    try:
+    def __init__(self):
+        pass
 
-      """
-      this method is resposible for cleanin data/ like removing unwanted or correlated data
-      droping correlated data as of jupyter notebook  
-      """
-      cleaned_df = df.drop(['Customer Id', 'Artist Name', 'Width', 'Weight', 'Customer Location', 'Scheduled Date', 'Delivery Date'], axis=1)
-        
-      return cleaned_df
+    def fit(self, X, y=None):
+        # The fit method is used to perform any necessary computations or training.
+        return self
 
-    except Exception as e:
-      raise CustomException(e, sys)
-      
-  def outliers_removal(self,df): 
-    try:
-      """
-      this method is responsible for capping outliers like <lower limit values with lower limit value
-      and >upper_limit value with upper_limit value
-      """
-      logging.info('outliers capping has started')
-      if isinstance(df, pd.DataFrame):
+    def Cleaning_Dataset(self, df):
+        try:
+            """
+            This method is responsible for cleaning data, like removing unwanted or correlated data.
+            """
+            excluded_columns = ['Customer Id', 'Artist Name', 'Width', 'Weight', 'Scheduled Date', 'Delivery Date', 'Customer Location']
+            cleaned_df = df.drop(excluded_columns, axis=1)
+            return cleaned_df
+        except Exception as e:
+            raise CustomException(e)
 
-        for col in df.columns:
+    def remove_outliers(self, df):
+        try:
+            numerical_cols = df.select_dtypes(include=np.number).columns
+            for col in numerical_cols:
+                Q1 = df[col].quantile(0.25)
+                Q3 = df[col].quantile(0.75)
+                IQR = Q3 - Q1
+                lower_limit = Q1 - 1.5 * IQR
+                upper_limit = Q3 + 1.5 * IQR
+                df[col] = np.where(
+                    (df[col] >= lower_limit) & (df[col] <= upper_limit),
+                    df[col],
+                    np.nan
+                )
+            return df
+        except Exception as e:
+            raise CustomException(e)
 
-          if df[col].dtype != 'object' and df[col].dtype != 'datetime64[ns]':
-              percentile25 = df[col].quantile(0.25)
-              percentile75 = df[col].quantile(0.75)
-              iqr = percentile75 - percentile25
-              upper_limit = percentile75 + 1.5 * iqr
-              lower_limit = percentile25 - 1.5 * iqr
+    def transform(self, X):
+        try:
+            cleaned_df = self.Cleaning_Dataset(X)
+            cleaned_df_no_outliers = self.remove_outliers(cleaned_df)
+            return cleaned_df_no_outliers
+        except Exception as e:
+            raise CustomException(e)
 
-              df[col] = np.where(
-                  df[col] > upper_limit,
-                  upper_limit,
-                  np.where(
-                      df[col] < lower_limit,
-                      lower_limit,
-                      df[col]
-                  )
-            )
-        logging.info('outliers capping compleeted')
-        return df
-        
-    except Exception as e:
-      raise CustomException(e, sys)
-
-  @staticmethod
-  def fe_pipline():
-
-    """
-    This method is only responsible for creating a feature engineering pipeline.
-    """
-    try:
-        df = pd.read_csv(CURRENT_DATA_PATH)
-        fe_instance = FeatureEngineering()
-        cleaned_df = fe_instance.Cleaning_Dataset(df=df)
-        outlier = fe_instance.outliers_removal(df=cleaned_df)
-        cleaned_df_pipeline = Pipeline([
-          ('clean_df', cleaned_df)
-        ])
-
-        outlier_pipeline = Pipeline([
-            ('outlier removel', outlier)
-        ])
-
-        feature_engineering_object = ColumnTransformer([
-            ('clean_df', cleaned_df_pipeline, cleaned_df.columns), 
-            ('outlier removel', outlier_pipeline, outlier.columns)  
-        ], remainder='passthrough')
-        
-        return feature_engineering_object
-    except Exception as e:
-        raise CustomException(e, sys)
-
-
-    except Exception as e:
-      raise CustomException(e, sys)
     
 @dataclass
 class DataTransformationConfig():
@@ -144,8 +109,10 @@ class DataTransformation:
     """
     try:
         
-        fe_instance = FeatureEngineering()
-        feature_engineering_object = fe_instance.fe_pipline()
+       
+        feature_engineering_object = Pipeline([
+        ('fe', FeatureEngineering())
+    ])
         return feature_engineering_object
     except Exception as e:
         raise CustomException(e, sys)
@@ -168,11 +135,7 @@ class DataTransformation:
 
       target_column='Cost'
       X_train = train_df_fe.drop(target_column, axis=1)
-      logging.info(f"Shape of train_df_fe: {train_df_fe.shape}")
-      logging.info(f"Shape of X_train: {X_train.shape}")
       X_test = test_df_fe.drop(target_column, axis=1)  
-      logging.info(f"Shape of test_df_fe: {test_df_fe.shape}")
-      logging.info(f"Shape of X_test: {X_test.shape}")
       y_train = train_df_fe[target_column]
       y_test = test_df_fe[target_column]
       
