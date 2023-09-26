@@ -140,29 +140,33 @@ class DataTransformation:
       os.makedirs(os.path.dirname(self.data_transformation_config.feature_eng_test),exist_ok=True)
       test_df_fe.to_csv(self.data_transformation_config.feature_eng_test,index=False)
       logging.info('feature engineered test data stored in Artifact/Data Transformation/FE data')
-
-
       logging.info('applying feature engineering pipeline in initiate data transformation compleeted')
       preprocessor_obj=self.get_preprocessor_object()
       os.makedirs(os.path.dirname(self.data_transformation_config.processor_object_path),exist_ok=True)
       save_object(self.data_transformation_config.processor_object_path,preprocessor_obj)
       target_column='Cost'
       X_train = train_df_fe.drop(target_column, axis=1)
-
       X_train=preprocessor_obj.fit_transform(X_train)
-      x_train_df=pd.DataFrame(X_train)
-      os.makedirs(os.path.dirname(self.data_transformation_config.transformed_train),exist_ok=True)
-      x_train_df.to_csv(self.data_transformation_config.transformed_train,index=False)
-      logging.info('preproceesed train  data stored in Artifacts/DataTransformation/Transformed data/Transformed_train.csv')
       X_test = test_df_fe.drop(target_column, axis=1)  
       X_test=preprocessor_obj.transform(X_test)
-      x_test_df=pd.DataFrame(X_test)
-      os.makedirs(os.path.dirname(self.data_transformation_config.transformed_test),exist_ok=True)
-      x_test_df.to_csv(self.data_transformation_config.transformed_test)
-      logging.info('preproceesed test data stored in Artifacts/DataTransformation/Transformed data/Transformed_test.csv')
       y_train = train_df_fe[target_column]
       y_test = test_df_fe[target_column]
-      
+    
+   
+      train_arry = np.concatenate((X_train, np.array(y_train).reshape(-1, 1)), axis=1)
+      test_arry = np.concatenate((X_test, np.array(y_test).reshape(-1, 1)), axis=1)
+
+      train_df=pd.DataFrame(train_arry)
+      test_df=pd.DataFrame(test_arry)
+      os.makedirs(os.path.dirname(self.data_transformation_config.transformed_train),exist_ok=True)
+      train_df.to_csv(self.data_transformation_config.transformed_train,index=False)
+      logging.info('preproceesed train  data stored in Artifacts/DataTransformation/Transformed data/Transformed_train.csv')
+      os.makedirs(os.path.dirname(self.data_transformation_config.transformed_test),exist_ok=True)
+      test_df.to_csv(self.data_transformation_config.transformed_test)
+      logging.info('preproceesed test data stored in Artifacts/DataTransformation/Transformed data/Transformed_test.csv')
+
+
+
       return  X_train,X_test,y_train,y_test
 
     except Exception as e:
