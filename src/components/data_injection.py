@@ -42,10 +42,10 @@ class DataInjection:
             train_set,test_set=train_test_split(df,test_size=0.20,random_state=42)
             logging.info('splitting train and test data compleeted')
             os.makedirs(os.path.dirname(self.data_injection_config.train_file_path),exist_ok=True)
-            train_set.to_csv(self.data_injection_config.train_file_path)
+            train_set.to_csv(self.data_injection_config.train_file_path,index=False)
             logging.info('train data stored in artifacts /data_injection /injected data/train_data')
             os.makedirs(os.path.dirname(self.data_injection_config.test_file_path),exist_ok=True)
-            test_set.to_csv(self.data_injection_config.test_file_path)
+            test_set.to_csv(self.data_injection_config.test_file_path,index=False)
             test_set.head()
             logging.info('train data stored in artifacts /data_injection /injected data/test_data')
 

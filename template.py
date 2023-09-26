@@ -16,8 +16,7 @@ list_of_files=[
     f"{project_name}/exception/__init__.py",
     f"{project_name}/logger/__init__.py",
     f"{project_name}/pipeline/__init__.py",
-    f"{project_name}/Utils/__init__.py"
-    f"config/confi.yaml",
+    f"{project_name}/Utils/__init__.py",
     "schema.yaml",
     'app.py',
     "logs.py",

@@ -12,6 +12,7 @@ from sklearn.compose import ColumnTransformer
 from dataclasses import dataclass
 from src.logger import logging
 from src.exception import CustomException
+from src.Utils import save_object
 
 
 
@@ -65,6 +66,8 @@ class FeatureEngineering:
 class DataTransformationConfig():
   processor_object_path=TRANSFORMER_OBJECT_FILE
   feature_engineering_object_path=FEATURE_ENGINEERING_OBJECT_FILE
+  feature_eng_train=FE_TRAIN_DATA_PATH
+  feature_eng_test=FE_TEST_DATA_PATH
   transformed_train=TRANSFORMED_TRAIN_FILE
   transformed_test=TRANSFORMED_TEST_FILE
 
@@ -80,7 +83,7 @@ class DataTransformation:
       logging.info('crreating categorical pipeline')
       cat_pipe = Pipeline([
             ('imputation', SimpleImputer(strategy='most_frequent')),
-            ('ohe', OneHotEncoder(handle_unknown='ignore', drop='first', sparse=False))
+            ('ohe', OneHotEncoder(handle_unknown='ignore', drop='first', sparse_output=False))
         ])
       logging.info('crating numerical pipeline')
       num_pipe = Pipeline([
@@ -107,9 +110,7 @@ class DataTransformation:
     """
     this method is used for creating an instance of FeatureEngineering class
     """
-    try:
-        
-       
+    try:    
         feature_engineering_object = Pipeline([
         ('fe', FeatureEngineering())
     ])
@@ -121,21 +122,44 @@ class DataTransformation:
     try:
       train_df=pd.read_csv(train_path)
       test_df=pd.read_csv(test_path)
-      logging.info(f'train_df 5 rows are :{train_df.head()}')
-      logging.info(f'test_df 5 rows are :{test_df.head()}')
       logging.info('getting feature engineering object in initiate data transformsation')
       fe_obj=self.get_feature_engineering_object()
+      os.makedirs(os.path.dirname(self.data_transformation_config.feature_engineering_object_path),exist_ok=True)
+      save_object(
+        self.data_transformation_config.feature_engineering_object_path,fe_obj
+      )
+
       logging.info('applying feature engineering pipeline in initiate data transformation')
-      
+
       train_df_fe=fe_obj.fit_transform(train_df)
+      os.makedirs(os.path.dirname(self.data_transformation_config.feature_eng_train),exist_ok=True)
+      train_df_fe.to_csv(self.data_transformation_config.feature_eng_train,index=False)
+      logging.info('feature engineered train data stored in Artifact/Data Transformation/FE data')
+      
       test_df_fe=fe_obj.transform(test_df)
+      os.makedirs(os.path.dirname(self.data_transformation_config.feature_eng_test),exist_ok=True)
+      test_df_fe.to_csv(self.data_transformation_config.feature_eng_test,index=False)
+      logging.info('feature engineered test data stored in Artifact/Data Transformation/FE data')
+
+
       logging.info('applying feature engineering pipeline in initiate data transformation compleeted')
-
       preprocessor_obj=self.get_preprocessor_object()
-
+      os.makedirs(os.path.dirname(self.data_transformation_config.processor_object_path),exist_ok=True)
+      save_object(self.data_transformation_config.processor_object_path,preprocessor_obj)
       target_column='Cost'
       X_train = train_df_fe.drop(target_column, axis=1)
+
+      X_train=preprocessor_obj.fit_transform(X_train)
+      x_train_df=pd.DataFrame(X_train)
+      os.makedirs(os.path.dirname(self.data_transformation_config.transformed_train),exist_ok=True)
+      x_train_df.to_csv(self.data_transformation_config.transformed_train,index=False)
+      logging.info('preproceesed train  data stored in Artifacts/DataTransformation/Transformed data/Transformed_train.csv')
       X_test = test_df_fe.drop(target_column, axis=1)  
+      X_test=preprocessor_obj.transform(X_test)
+      x_test_df=pd.DataFrame(X_test)
+      os.makedirs(os.path.dirname(self.data_transformation_config.transformed_test),exist_ok=True)
+      x_test_df.to_csv(self.data_transformation_config.transformed_test)
+      logging.info('preproceesed test data stored in Artifacts/DataTransformation/Transformed data/Transformed_test.csv')
       y_train = train_df_fe[target_column]
       y_test = test_df_fe[target_column]
       
