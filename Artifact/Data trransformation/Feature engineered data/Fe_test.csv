@@ -10,21 +10,21 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.01,,Wood,3.01,19.24,Yes,No,No,Waterways,No,Working Class,No,119.18
 0.13,,Wood,3.61,23.42,No,Yes,No,Airways,No,Wealthy,Yes,176.93
 ,14.0,Aluminium,6.93,22.61,No,No,No,,No,Working Class,Yes,214.23
-0.53,13.0,Stone,,56.84,Yes,No,No,Roadways,No,Working Class,Yes,
+0.53,13.0,Stone,178.245,56.84,Yes,No,No,Roadways,No,Working Class,Yes,2473.645
 0.08,6.0,Aluminium,6.13,18.43,Yes,No,No,Roadways,No,Working Class,Yes,159.29
 0.16,9.0,Marble,10.81,14.97,No,No,No,,No,Working Class,No,-184.73
 0.0,6.0,Aluminium,3.8,18.51,No,Yes,No,Airways,No,Wealthy,Yes,-149.96
 0.81,,Bronze,40.07,74.07,Yes,No,No,,No,Working Class,No,2299.57
 ,3.0,,3.9,22.18,No,No,Yes,Roadways,No,Working Class,,196.21
 0.72,25.0,Bronze,50.58,73.55,No,No,No,Roadways,No,Working Class,Yes,2071.78
-0.88,53.0,Clay,147.18,95.63,Yes,Yes,No,Airways,Yes,Wealthy,No,
+0.88,53.0,Clay,147.18,95.63,Yes,Yes,No,Airways,Yes,Wealthy,No,2473.645
 0.23,38.0,Wood,3.87,24.83,No,No,No,Roadways,No,Working Class,No,191.98
 0.42,7.0,Brass,4.66,16.58,No,No,Yes,Airways,No,Working Class,No,204.78
 0.07,35.0,Aluminium,10.52,24.33,No,Yes,No,Roadways,No,Working Class,No,171.32
 0.44,14.0,Marble,82.14,78.26,No,No,No,Roadways,No,Working Class,No,1527.97
 0.33,13.0,Marble,65.71,27.74,No,Yes,Yes,Airways,No,Working Class,No,637.47
 0.18,6.0,Marble,6.65,17.39,No,No,No,,No,Working Class,No,189.6
-0.92,16.0,Stone,,27.66,No,Yes,Yes,Airways,No,Wealthy,No,
+0.92,16.0,Stone,178.245,27.66,No,Yes,Yes,Airways,No,Wealthy,No,2473.645
 0.18,25.0,Brass,62.43,38.01,Yes,No,Yes,,No,Working Class,Yes,464.36
 0.08,8.0,Brass,5.03,15.93,Yes,No,Yes,Airways,No,Working Class,No,157.65
 0.37,7.0,Brass,5.7,16.48,No,No,No,Roadways,No,Working Class,No,173.45
@@ -40,14 +40,14 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 ,18.0,Clay,12.15,12.98,Yes,No,No,Waterways,Yes,Working Class,No,170.21
 0.33,10.0,Aluminium,4.17,15.61,No,No,No,Roadways,No,Wealthy,Yes,166.91
 0.73,12.0,Brass,6.77,22.75,Yes,No,No,Waterways,No,Wealthy,No,486.85
-0.86,14.0,Brass,8.3,17.02,No,Yes,Yes,,No,Working Class,Yes,
+0.86,14.0,Brass,8.3,17.02,No,Yes,Yes,,No,Working Class,Yes,-1197.075
 0.32,29.0,Bronze,41.85,41.92,No,No,Yes,Roadways,No,Working Class,Yes,560.83
 0.48,14.0,Marble,49.52,62.97,Yes,No,No,Airways,No,Working Class,No,758.94
 0.25,10.0,Marble,25.83,18.35,Yes,Yes,Yes,Airways,No,Wealthy,No,-358.92
 0.22,20.0,Stone,94.12,26.77,No,No,No,Airways,No,Working Class,No,941.93
-0.54,32.0,Marble,,97.03,No,No,No,Waterways,No,Working Class,No,
-0.73,27.0,Marble,,52.24,No,Yes,No,,No,Wealthy,No,
-0.73,24.0,Bronze,21.29,46.09,Yes,Yes,Yes,Airways,No,Working Class,No,
+0.54,32.0,Marble,178.245,97.03,No,No,No,Waterways,No,Working Class,No,2473.645
+0.73,27.0,Marble,178.245,52.24,No,Yes,No,,No,Wealthy,No,2473.645
+0.73,24.0,Bronze,21.29,46.09,Yes,Yes,Yes,Airways,No,Working Class,No,-1197.075
 0.46,12.0,Wood,5.05,23.14,Yes,No,No,Waterways,No,Working Class,No,251.32
 0.29,28.0,Brass,10.19,48.48,No,No,Yes,Roadways,No,Working Class,No,448.43
 0.66,,Wood,5.0,24.55,Yes,No,Yes,Waterways,No,Working Class,No,575.4
@@ -55,17 +55,17 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.74,16.0,,6.85,21.65,Yes,Yes,Yes,Airways,No,Working Class,Yes,737.58
 0.28,10.0,Aluminium,6.87,17.01,Yes,No,Yes,Waterways,No,Wealthy,No,188.18
 ,18.0,Aluminium,3.21,16.79,Yes,Yes,Yes,Airways,No,Working Class,No,146.41
-0.8,,Clay,30.99,69.1,Yes,Yes,No,Airways,Yes,Working Class,No,
+0.8,54.5,Clay,30.99,69.1,Yes,Yes,No,Airways,Yes,Working Class,No,2473.645
 0.55,12.0,Bronze,4.77,15.76,No,No,Yes,Roadways,No,Working Class,No,275.74
-0.68,45.0,Stone,,97.29,No,No,No,,No,Working Class,Yes,
+0.68,45.0,Stone,178.245,97.29,No,No,No,,No,Working Class,Yes,2473.645
 ,9.0,Bronze,4.15,10.37,Yes,No,No,,No,Working Class,Yes,191.55
 0.59,8.0,Marble,3.56,15.77,No,Yes,No,,No,Working Class,No,266.67
 0.54,13.0,Wood,3.92,20.08,No,Yes,No,Roadways,No,Wealthy,No,262.35
 0.24,28.0,Aluminium,3.83,15.43,No,No,No,Roadways,No,Working Class,No,-154.19
 0.15,35.0,Wood,5.82,11.1,Yes,No,No,Waterways,No,Working Class,No,101.96
 0.16,3.0,Marble,3.37,23.8,No,Yes,No,Airways,No,Working Class,No,182.76
-0.19,36.0,Marble,,93.62,Yes,No,Yes,Waterways,Yes,Working Class,No,
-0.57,29.0,Stone,,30.87,Yes,Yes,Yes,Airways,No,Working Class,No,
+0.19,36.0,Marble,178.245,93.62,Yes,No,Yes,Waterways,Yes,Working Class,No,-1197.075
+0.57,29.0,Stone,178.245,30.87,Yes,Yes,Yes,Airways,No,Working Class,No,-1197.075
 0.78,33.0,Wood,3.07,14.45,Yes,No,Yes,,No,Working Class,No,454.35
 0.18,4.0,Clay,4.35,21.01,No,No,No,Roadways,Yes,Working Class,No,132.69
 0.71,7.0,Stone,11.95,24.39,Yes,Yes,No,Airways,No,Working Class,No,454.62
@@ -73,25 +73,25 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.66,46.0,Wood,5.63,19.59,No,No,Yes,Roadways,No,Working Class,No,638.12
 0.5,48.0,Wood,9.85,23.89,No,No,Yes,Roadways,No,Working Class,,769.76
 0.76,15.0,Stone,143.88,30.8,No,No,Yes,Roadways,No,Working Class,No,1064.41
-0.7,43.0,,71.96,25.39,No,No,Yes,,Yes,Working Class,No,
-0.33,33.0,Bronze,,27.25,No,No,Yes,,No,Working Class,Yes,824.14
+0.7,43.0,,71.96,25.39,No,No,Yes,,Yes,Working Class,No,2473.645
+0.33,33.0,Bronze,178.245,27.25,No,No,Yes,,No,Working Class,Yes,824.14
 ,9.0,Bronze,3.66,16.99,No,No,No,Waterways,No,Working Class,,163.55
 ,9.0,,17.38,23.11,Yes,No,Yes,Airways,No,Working Class,No,333.97
 ,41.0,Wood,7.0,14.42,No,No,Yes,,No,Working Class,No,826.5
-0.65,40.0,Stone,,77.98,Yes,Yes,No,Airways,No,Working Class,No,
+0.65,40.0,Stone,178.245,77.98,Yes,Yes,No,Airways,No,Working Class,No,2473.645
 ,34.0,Clay,3.37,41.56,Yes,No,No,Waterways,Yes,Working Class,No,237.34
 0.09,19.0,Bronze,5.47,10.45,No,No,Yes,Airways,No,Working Class,No,169.64
 0.64,16.0,Wood,4.14,11.47,No,No,Yes,Roadways,No,Working Class,No,248.39
-0.85,21.0,Marble,,27.76,Yes,No,No,,No,Working Class,No,2407.8
+0.85,21.0,Marble,178.245,27.76,Yes,No,No,,No,Working Class,No,2407.8
 0.26,52.0,Clay,100.95,94.59,No,No,No,Roadways,Yes,Working Class,No,1245.99
-0.58,30.0,Stone,,80.7,Yes,No,No,Waterways,No,Wealthy,No,
+0.58,30.0,Stone,178.245,80.7,Yes,No,No,Waterways,No,Wealthy,No,2473.645
 0.76,24.0,Clay,35.16,19.11,No,No,Yes,Airways,Yes,Working Class,No,897.16
-0.41,31.0,Stone,,74.6,No,No,Yes,Roadways,No,Working Class,No,
+0.41,31.0,Stone,178.245,74.6,No,No,Yes,Roadways,No,Working Class,No,2473.645
 ,15.0,Wood,5.78,10.81,No,No,No,Waterways,No,Working Class,Yes,-117.99
-0.68,34.0,Stone,,59.41,No,No,No,Roadways,No,Working Class,Yes,
+0.68,34.0,Stone,178.245,59.41,No,No,No,Roadways,No,Working Class,Yes,2473.645
 0.4,5.0,Clay,4.09,19.05,No,Yes,No,Airways,Yes,Working Class,No,192.26
 0.55,9.0,Clay,3.11,16.44,No,Yes,No,Roadways,Yes,Wealthy,No,227.46
-0.6,21.0,Stone,,37.73,No,Yes,Yes,Airways,No,Working Class,No,
+0.6,21.0,Stone,178.245,37.73,No,Yes,Yes,Airways,No,Working Class,No,2473.645
 0.08,19.0,Brass,8.63,75.3,No,No,No,Roadways,No,Working Class,Yes,415.12
 0.11,,,3.34,12.06,No,No,No,,Yes,Working Class,No,116.77
 0.18,6.0,Clay,4.17,22.73,No,No,No,Roadways,Yes,Working Class,No,158.81
@@ -106,39 +106,39 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 ,15.0,Bronze,4.72,11.72,Yes,Yes,No,,No,Working Class,No,227.8
 ,8.0,Stone,16.33,97.57,No,No,No,Roadways,No,Working Class,,610.86
 0.04,6.0,Clay,3.01,16.97,No,Yes,No,,Yes,Working Class,No,139.02
-0.69,32.0,Bronze,75.71,56.84,No,No,No,,No,Wealthy,Yes,
+0.69,32.0,Bronze,75.71,56.84,No,No,No,,No,Wealthy,Yes,2473.645
 0.48,9.0,Clay,5.01,21.34,Yes,No,No,Waterways,Yes,Working Class,No,229.53
 0.12,15.0,Bronze,3.74,20.05,Yes,Yes,Yes,Airways,No,Wealthy,Yes,-246.73
 ,23.0,Stone,112.4,38.35,Yes,Yes,No,,No,Working Class,Yes,1477.73
 0.41,19.0,Aluminium,4.32,23.91,No,No,No,Roadways,No,Working Class,Yes,257.86
 0.3,9.0,Marble,19.74,23.88,No,No,Yes,Roadways,No,Wealthy,No,-265.63
-0.03,28.0,Marble,,72.65,No,No,No,Airways,No,Working Class,Yes,1298.09
-0.3,14.0,Stone,,88.01,Yes,Yes,Yes,Airways,No,Wealthy,No,2055.74
+0.03,28.0,Marble,178.245,72.65,No,No,No,Airways,No,Working Class,Yes,1298.09
+0.3,14.0,Stone,178.245,88.01,Yes,Yes,Yes,Airways,No,Wealthy,No,2055.74
 0.93,8.0,Stone,12.85,10.56,No,Yes,Yes,Roadways,No,Working Class,No,396.03
 0.22,14.0,Wood,4.34,19.01,No,Yes,No,Roadways,No,Wealthy,No,163.87
 0.71,52.0,Wood,9.24,11.05,Yes,Yes,Yes,Airways,No,Wealthy,No,1771.61
-0.88,32.0,Bronze,55.47,45.35,No,No,No,Waterways,No,Wealthy,Yes,
+0.88,32.0,Bronze,55.47,45.35,No,No,No,Waterways,No,Wealthy,Yes,2473.645
 0.8,21.0,Bronze,14.84,21.6,Yes,No,No,Waterways,No,Working Class,No,514.66
 0.06,14.0,Clay,6.04,12.43,Yes,No,Yes,Waterways,Yes,Working Class,No,136.06
 0.31,14.0,Wood,4.89,15.19,Yes,No,Yes,Waterways,No,Working Class,No,178.91
 0.41,30.0,Aluminium,5.82,12.86,No,No,Yes,,No,Working Class,No,213.46
 0.86,23.0,Aluminium,3.51,14.03,Yes,No,No,Roadways,No,Working Class,No,495.89
-0.31,14.0,,,99.72,No,No,No,,No,Working Class,No,880.32
+0.31,14.0,,178.245,99.72,No,No,No,,No,Working Class,No,880.32
 0.05,16.0,Aluminium,6.13,20.1,Yes,No,No,Airways,No,Working Class,No,143.05
 0.27,11.0,Stone,55.5,57.9,No,Yes,Yes,Roadways,No,Wealthy,No,776.76
-0.56,35.0,Marble,,93.37,Yes,No,Yes,,No,Working Class,No,
+0.56,35.0,Marble,178.245,93.37,Yes,No,Yes,,No,Working Class,No,2473.645
 0.19,23.0,Bronze,7.36,34.62,No,No,Yes,Airways,No,Working Class,No,-299.16
 0.24,24.0,Wood,4.77,23.32,No,No,Yes,Roadways,No,Working Class,No,222.83
 0.97,30.0,Wood,4.58,13.39,No,No,No,Roadways,No,Working Class,No,-708.86
 0.46,16.0,Brass,6.26,17.19,No,No,Yes,Roadways,No,Working Class,Yes,312.69
 0.02,7.0,Wood,3.34,15.53,No,No,Yes,Roadways,No,Working Class,Yes,-112.51
 0.91,25.0,Bronze,11.64,11.96,No,No,Yes,Waterways,No,Wealthy,,575.77
-,,Brass,,73.19,Yes,No,No,Airways,No,Working Class,No,
+,,Brass,178.245,73.19,Yes,No,No,Airways,No,Working Class,No,2473.645
 0.72,33.0,,6.17,18.99,No,No,No,,No,Working Class,No,605.18
 0.69,10.0,Wood,6.64,14.01,No,Yes,Yes,,No,Wealthy,Yes,371.17
 0.92,3.0,Wood,3.29,21.03,No,No,No,Airways,No,Wealthy,No,208.13
-0.95,23.0,Brass,64.7,53.05,Yes,No,No,Waterways,No,Working Class,No,
-0.45,45.0,,,69.99,Yes,No,Yes,Waterways,No,Working Class,No,
+0.95,23.0,Brass,64.7,53.05,Yes,No,No,Waterways,No,Working Class,No,2473.645
+0.45,45.0,,178.245,69.99,Yes,No,Yes,Waterways,No,Working Class,No,2473.645
 0.91,18.0,,11.19,24.83,Yes,Yes,No,,No,Working Class,No,891.03
 0.39,9.0,,6.33,22.25,No,No,No,Roadways,No,Working Class,No,243.33
 0.96,13.0,Marble,112.56,42.68,No,No,Yes,Roadways,No,Working Class,Yes,1290.57
@@ -146,52 +146,52 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.47,13.0,Aluminium,3.57,23.84,No,No,No,Waterways,No,Working Class,No,229.82
 0.19,,Wood,5.5,24.05,No,Yes,Yes,,No,Working Class,,175.94
 0.04,7.0,Brass,6.53,18.77,Yes,No,Yes,,No,Working Class,No,170.87
-0.49,36.0,Brass,81.26,88.4,No,No,No,Roadways,No,Working Class,No,
+0.49,36.0,Brass,81.26,88.4,No,No,No,Roadways,No,Working Class,No,2473.645
 0.88,24.0,Bronze,39.5,21.83,No,No,No,Roadways,No,Working Class,,815.51
 0.6,22.0,Clay,7.66,19.49,No,No,Yes,Roadways,Yes,Working Class,Yes,599.03
-,47.0,Stone,,72.83,No,Yes,Yes,,No,Working Class,Yes,
+,47.0,Stone,178.245,72.83,No,Yes,Yes,,No,Working Class,Yes,2473.645
 0.32,24.0,Brass,40.01,70.44,No,No,No,,No,Working Class,No,-593.71
-0.91,17.0,Stone,,42.73,No,No,Yes,Airways,No,Working Class,,2097.93
-,26.0,Stone,,34.24,Yes,No,No,Waterways,No,Working Class,No,
+0.91,17.0,Stone,178.245,42.73,No,No,Yes,Airways,No,Working Class,,2097.93
+,26.0,Stone,178.245,34.24,Yes,No,No,Waterways,No,Working Class,No,-1197.075
 ,17.0,Bronze,36.11,10.78,No,No,No,,No,Working Class,No,435.31
 0.4,15.0,Clay,5.05,24.51,Yes,Yes,No,Airways,Yes,Wealthy,No,306.54
-0.15,24.0,Stone,,44.82,Yes,No,No,Airways,No,Working Class,No,
+0.15,24.0,Stone,178.245,44.82,Yes,No,No,Airways,No,Working Class,No,2473.645
 0.37,31.0,Bronze,58.69,38.11,No,No,Yes,Roadways,No,Working Class,No,749.84
 0.94,32.0,Wood,5.68,11.48,No,No,Yes,Waterways,No,Working Class,No,740.84
 0.19,,Stone,135.95,28.29,No,Yes,Yes,,No,Working Class,No,488.62
 0.51,6.0,Stone,14.48,11.57,No,Yes,No,,No,Wealthy,No,297.43
 0.55,18.0,Aluminium,6.64,11.5,No,No,No,Roadways,No,Working Class,No,217.73
 0.14,33.0,Clay,7.58,47.24,No,No,Yes,Airways,Yes,Working Class,No,383.54
-0.6,25.0,Marble,,60.52,No,No,Yes,Airways,No,Working Class,No,
-0.9,32.0,Brass,59.4,93.7,No,No,No,Roadways,No,Working Class,,
+0.6,25.0,Marble,178.245,60.52,No,No,Yes,Airways,No,Working Class,No,2473.645
+0.9,32.0,Brass,59.4,93.7,No,No,No,Roadways,No,Working Class,,2473.645
 0.24,37.0,Brass,70.11,70.42,Yes,No,No,Waterways,No,Working Class,No,795.24
 0.26,4.0,Aluminium,6.59,17.56,No,Yes,No,Airways,No,Wealthy,Yes,-157.16
 0.11,16.0,Marble,30.19,41.19,Yes,Yes,No,Airways,No,Working Class,No,460.77
-0.78,31.0,,,27.0,Yes,No,No,Waterways,No,Working Class,Yes,
-0.3,32.0,Stone,,94.87,No,Yes,No,Roadways,No,Wealthy,No,
+0.78,31.0,,178.245,27.0,Yes,No,No,Waterways,No,Working Class,Yes,2473.645
+0.3,32.0,Stone,178.245,94.87,No,Yes,No,Roadways,No,Wealthy,No,2473.645
 0.94,28.0,Clay,16.92,19.47,Yes,Yes,Yes,Airways,Yes,Working Class,No,1488.13
 0.82,16.0,Clay,3.47,11.85,No,No,Yes,Airways,Yes,Working Class,No,307.99
 0.04,13.0,Clay,3.44,13.92,No,No,No,Roadways,Yes,Working Class,Yes,139.11
 0.07,12.0,Bronze,5.07,12.76,No,Yes,Yes,,No,Working Class,No,156.12
-0.9,36.0,Marble,,40.25,No,Yes,Yes,Airways,Yes,Working Class,No,
-0.47,38.0,Brass,,71.34,No,Yes,Yes,,No,Wealthy,Yes,
+0.9,36.0,Marble,178.245,40.25,No,Yes,Yes,Airways,Yes,Working Class,No,2473.645
+0.47,38.0,Brass,178.245,71.34,No,Yes,Yes,,No,Wealthy,Yes,2473.645
 0.27,17.0,Bronze,8.21,22.4,No,No,Yes,,No,Working Class,No,-251.1
 0.22,23.0,Wood,6.23,22.3,No,Yes,Yes,Airways,No,Wealthy,No,-225.61
-0.37,23.0,Stone,,65.95,No,No,Yes,,No,Working Class,No,
+0.37,23.0,Stone,178.245,65.95,No,No,Yes,,No,Working Class,No,-1197.075
 0.54,39.0,Aluminium,9.51,17.55,Yes,No,No,Roadways,No,Working Class,No,571.88
-0.84,28.0,,,65.28,Yes,Yes,No,,No,Wealthy,,
-0.25,14.0,Stone,,95.59,No,Yes,No,Airways,No,Working Class,No,1944.14
-0.89,31.0,Brass,,51.17,No,No,No,,No,Working Class,,
+0.84,28.0,,178.245,65.28,Yes,Yes,No,,No,Wealthy,,2473.645
+0.25,14.0,Stone,178.245,95.59,No,Yes,No,Airways,No,Working Class,No,1944.14
+0.89,31.0,Brass,178.245,51.17,No,No,No,,No,Working Class,,2473.645
 ,28.0,Clay,4.39,12.6,Yes,Yes,No,Airways,Yes,Wealthy,,1271.31
 0.28,11.0,Brass,6.56,19.68,No,Yes,Yes,Airways,No,Wealthy,No,233.7
 0.35,34.0,,22.76,98.8,No,Yes,Yes,Airways,Yes,Working Class,,1308.13
 ,38.0,Clay,3.95,15.45,No,Yes,No,Airways,Yes,Wealthy,,273.38
 0.28,19.0,Bronze,3.56,46.73,Yes,Yes,Yes,Airways,No,Working Class,No,498.87
 0.38,14.0,Marble,93.22,64.11,No,No,No,Roadways,No,Working Class,Yes,1477.63
-0.92,27.0,Stone,,99.38,No,No,No,Waterways,No,Working Class,No,
-0.71,37.0,Stone,,37.22,No,No,No,Airways,No,Working Class,No,
+0.92,27.0,Stone,178.245,99.38,No,No,No,Waterways,No,Working Class,No,2473.645
+0.71,37.0,Stone,178.245,37.22,No,No,No,Airways,No,Working Class,No,2473.645
 0.51,26.0,Brass,31.24,54.15,No,No,No,Roadways,No,Working Class,No,775.02
-0.27,15.0,Stone,,84.82,Yes,No,No,Airways,No,Working Class,Yes,2106.9
+0.27,15.0,Stone,178.245,84.82,Yes,No,No,Airways,No,Working Class,Yes,2106.9
 0.42,19.0,,6.81,12.37,Yes,No,Yes,Airways,No,Working Class,No,-231.0
 0.65,11.0,Bronze,3.31,12.02,No,No,No,Airways,No,Working Class,No,218.75
 0.39,15.0,Clay,3.92,24.38,Yes,No,Yes,Waterways,Yes,Working Class,No,279.02
@@ -204,16 +204,16 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.49,7.0,Clay,6.28,24.65,No,No,Yes,Roadways,Yes,Working Class,No,278.27
 0.23,8.0,Aluminium,4.66,14.65,Yes,No,Yes,,No,Working Class,,147.16
 ,22.0,Aluminium,3.15,19.6,No,Yes,No,,No,Working Class,,166.15
-0.75,24.0,Stone,,55.73,Yes,No,No,Roadways,No,Working Class,No,
-0.63,33.0,Brass,,92.11,No,No,No,Roadways,No,Wealthy,No,
+0.75,24.0,Stone,178.245,55.73,Yes,No,No,Roadways,No,Working Class,No,2473.645
+0.63,33.0,Brass,178.245,92.11,No,No,No,Roadways,No,Wealthy,No,2473.645
 0.38,6.0,,5.11,14.37,No,No,Yes,Roadways,No,Working Class,No,202.68
 ,5.0,Wood,6.26,16.84,No,Yes,Yes,Airways,No,Wealthy,No,-179.43
 0.63,25.0,Clay,10.09,13.2,No,No,Yes,Roadways,Yes,Wealthy,No,369.21
 0.59,17.0,Bronze,21.47,19.49,Yes,No,No,Waterways,No,Working Class,No,-290.32
 0.01,3.0,Stone,6.28,23.25,No,No,No,Airways,No,Wealthy,No,224.52
-0.06,32.0,Marble,,28.59,No,Yes,Yes,Airways,No,Working Class,No,1502.2
+0.06,32.0,Marble,178.245,28.59,No,Yes,Yes,Airways,No,Working Class,No,1502.2
 0.94,,Aluminium,3.23,19.63,No,Yes,No,Roadways,No,Wealthy,No,907.62
-0.29,15.0,Stone,,36.32,No,No,Yes,Roadways,No,Working Class,No,
+0.29,15.0,Stone,178.245,36.32,No,No,Yes,Roadways,No,Working Class,No,-1197.075
 0.42,,Wood,5.84,12.62,No,Yes,No,Airways,No,Wealthy,No,150.77
 0.11,15.0,Brass,5.79,11.93,Yes,Yes,No,Airways,No,Wealthy,No,180.55
 0.28,17.0,,8.48,21.13,Yes,No,Yes,Waterways,No,Working Class,,247.94
@@ -221,16 +221,16 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.39,17.0,,6.07,20.75,No,No,Yes,Roadways,No,Working Class,,256.95
 0.41,27.0,Bronze,42.5,51.43,No,No,No,Roadways,No,Wealthy,Yes,775.22
 0.53,11.0,Wood,3.99,11.38,Yes,No,No,Airways,No,Wealthy,,202.6
-0.26,31.0,Stone,,98.89,Yes,No,No,Waterways,No,Working Class,Yes,
-0.5,16.0,Stone,93.76,81.91,No,No,No,Roadways,No,Working Class,No,
+0.26,31.0,Stone,178.245,98.89,Yes,No,No,Waterways,No,Working Class,Yes,2473.645
+0.5,16.0,Stone,93.76,81.91,No,No,No,Roadways,No,Working Class,No,2473.645
 0.59,39.0,Clay,49.35,88.77,No,No,Yes,Roadways,Yes,Working Class,,2333.2
 ,11.0,,4.92,10.07,Yes,No,No,Waterways,Yes,Working Class,No,127.61
 ,16.0,Wood,3.05,17.92,No,No,Yes,Roadways,No,Working Class,No,-442.52
 0.15,18.0,Aluminium,4.41,19.31,No,No,No,Airways,No,Working Class,No,-146.3
 ,18.0,Marble,82.52,94.04,No,No,No,Airways,No,Working Class,No,1119.86
 0.56,10.0,Bronze,4.58,11.01,No,Yes,Yes,Roadways,No,Working Class,No,247.41
-0.52,13.0,Stone,,51.37,No,No,No,Waterways,No,Working Class,No,1494.52
-0.7,32.0,Marble,,28.53,No,No,Yes,Roadways,No,Working Class,No,
+0.52,13.0,Stone,178.245,51.37,No,No,No,Waterways,No,Working Class,No,1494.52
+0.7,32.0,Marble,178.245,28.53,No,No,Yes,Roadways,No,Working Class,No,2473.645
 0.59,29.0,Aluminium,9.0,24.1,No,Yes,Yes,Roadways,No,Working Class,No,964.06
 ,15.0,Bronze,3.47,15.92,Yes,No,Yes,,No,Working Class,No,456.76
 ,26.0,,5.17,18.11,No,No,Yes,Waterways,No,Working Class,No,749.64
@@ -242,7 +242,7 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.26,10.0,Clay,4.96,17.25,Yes,No,No,Waterways,Yes,Working Class,No,141.83
 0.7,30.0,Brass,142.09,72.85,No,No,No,Roadways,No,Working Class,No,1728.26
 0.39,,Stone,129.57,59.18,No,No,Yes,Roadways,No,Working Class,No,744.88
-0.54,36.0,Marble,,60.88,No,No,No,Roadways,Yes,Working Class,No,
+0.54,36.0,Marble,178.245,60.88,No,No,No,Roadways,Yes,Working Class,No,2473.645
 ,29.0,Wood,5.55,13.52,Yes,Yes,Yes,Airways,No,Working Class,No,955.59
 0.0,17.0,Bronze,5.93,22.43,No,No,Yes,Roadways,No,Working Class,No,172.81
 0.6,15.0,Aluminium,5.1,15.44,No,No,No,Roadways,No,Working Class,Yes,-248.06
@@ -251,18 +251,18 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 ,42.0,Clay,18.15,78.24,Yes,No,No,Waterways,Yes,Wealthy,No,1344.13
 0.33,12.0,Brass,13.58,19.9,No,No,No,Roadways,No,Working Class,Yes,229.26
 0.65,18.0,Clay,8.59,11.72,No,Yes,Yes,Roadways,Yes,Wealthy,No,668.56
-0.46,43.0,Bronze,,39.07,Yes,Yes,No,,No,Wealthy,Yes,2087.37
+0.46,43.0,Bronze,178.245,39.07,Yes,Yes,No,,No,Wealthy,Yes,2087.37
 0.71,,Clay,10.76,19.83,Yes,No,Yes,,Yes,Wealthy,No,623.26
-0.44,23.0,Marble,,58.03,Yes,No,No,Airways,No,Working Class,No,
-0.58,43.0,Marble,,86.7,No,No,No,Roadways,Yes,Working Class,No,
+0.44,23.0,Marble,178.245,58.03,Yes,No,No,Airways,No,Working Class,No,2473.645
+0.58,43.0,Marble,178.245,86.7,No,No,No,Roadways,Yes,Working Class,No,2473.645
 0.48,17.0,Brass,17.64,67.04,No,No,Yes,Waterways,No,Working Class,No,753.83
 0.65,14.0,Brass,28.93,12.89,Yes,No,No,Waterways,No,Working Class,No,285.36
 0.18,19.0,Clay,5.79,10.88,No,No,No,Roadways,Yes,Working Class,No,137.98
 0.24,,Brass,4.14,12.77,No,No,No,Roadways,No,Working Class,,160.9
-0.96,27.0,Stone,,79.77,No,No,No,,No,Wealthy,,
-0.6,33.0,Brass,,82.15,No,No,No,Roadways,No,Working Class,No,
+0.96,27.0,Stone,178.245,79.77,No,No,No,,No,Wealthy,,2473.645
+0.6,33.0,Brass,178.245,82.15,No,No,No,Roadways,No,Working Class,No,2473.645
 0.25,16.0,Aluminium,4.57,20.42,Yes,No,No,Airways,No,Working Class,No,189.6
-0.9,30.0,Stone,,64.48,No,Yes,Yes,Roadways,No,Working Class,No,
+0.9,30.0,Stone,178.245,64.48,No,Yes,Yes,Roadways,No,Working Class,No,2473.645
 0.36,20.0,Wood,3.35,16.34,Yes,No,Yes,Airways,No,Working Class,,191.96
 0.69,11.0,Brass,6.82,11.16,No,No,No,Waterways,No,Working Class,No,268.46
 ,,,6.57,17.6,No,No,No,Roadways,No,Wealthy,,294.86
@@ -270,8 +270,8 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.6,16.0,Aluminium,4.38,20.7,Yes,No,Yes,Airways,No,Working Class,,327.98
 ,12.0,Bronze,19.94,18.61,No,No,Yes,Roadways,No,Working Class,Yes,475.77
 0.04,10.0,,4.02,20.55,No,No,No,Waterways,No,Wealthy,Yes,179.84
-0.76,30.0,,,29.0,Yes,No,No,,No,Wealthy,No,
-0.39,37.0,Bronze,,70.17,Yes,No,Yes,,No,Working Class,No,1237.35
+0.76,30.0,,178.245,29.0,Yes,No,No,,No,Wealthy,No,2473.645
+0.39,37.0,Bronze,178.245,70.17,Yes,No,Yes,,No,Working Class,No,1237.35
 0.79,35.0,,15.67,16.52,No,No,Yes,Airways,No,Working Class,,605.92
 0.78,9.0,Brass,6.21,13.48,No,No,No,Roadways,No,Working Class,,373.58
 0.61,26.0,Brass,43.06,83.55,No,No,Yes,Roadways,No,Wealthy,No,1947.47
@@ -281,13 +281,13 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.53,18.0,Wood,5.49,18.03,No,Yes,No,,No,Wealthy,No,263.75
 0.37,10.0,Brass,6.86,12.16,No,No,Yes,,No,Working Class,,188.24
 0.8,7.0,Marble,3.81,18.21,No,Yes,No,Airways,No,Working Class,No,344.19
-,33.0,Brass,91.17,30.43,No,No,No,Roadways,No,Working Class,No,
+,33.0,Brass,91.17,30.43,No,No,No,Roadways,No,Working Class,No,2473.645
 0.52,36.0,Wood,3.86,17.0,No,No,Yes,Roadways,No,Working Class,No,-288.58
 0.54,13.0,Brass,6.23,12.18,Yes,No,Yes,,No,Working Class,No,265.04
 0.03,10.0,Stone,19.12,97.56,No,Yes,Yes,Airways,No,Working Class,No,496.87
 0.37,5.0,Brass,3.84,19.15,Yes,No,No,Airways,No,Working Class,Yes,226.39
 0.55,18.0,Wood,3.72,16.37,No,Yes,No,Airways,No,Wealthy,No,232.38
-,16.0,Stone,,59.43,Yes,No,No,Airways,No,Working Class,No,
+,16.0,Stone,178.245,59.43,Yes,No,No,Airways,No,Working Class,No,2473.645
 ,,,21.27,42.87,No,No,No,Roadways,No,Working Class,No,-359.93
 0.31,15.0,Clay,6.32,16.75,Yes,Yes,No,Airways,Yes,Working Class,No,207.48
 0.71,,Brass,32.22,25.67,Yes,No,No,,No,Working Class,No,-649.42
@@ -296,12 +296,12 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.58,8.0,Clay,5.56,12.43,No,No,No,Airways,Yes,Working Class,No,187.89
 0.02,8.0,Wood,3.29,20.92,No,Yes,No,Roadways,No,Working Class,No,109.48
 0.59,19.0,Brass,57.11,43.57,No,Yes,No,Airways,No,Working Class,Yes,1337.01
-0.15,30.0,Stone,,47.34,No,Yes,No,Roadways,No,Working Class,,
+0.15,30.0,Stone,178.245,47.34,No,Yes,No,Roadways,No,Working Class,,2473.645
 ,6.0,Brass,5.96,21.17,Yes,No,No,Waterways,No,Wealthy,No,255.53
 0.37,24.0,Aluminium,6.78,14.15,No,No,Yes,Waterways,No,Wealthy,No,212.89
 0.49,15.0,Aluminium,3.02,24.31,No,Yes,No,Roadways,No,Working Class,,262.7
 0.13,,,137.59,65.69,No,No,Yes,Roadways,No,Working Class,No,787.5
-0.41,,Brass,,88.38,No,No,Yes,,Yes,Working Class,No,
+0.41,,Brass,178.245,88.38,No,No,Yes,,Yes,Working Class,No,2473.645
 0.62,8.0,Marble,6.55,20.03,Yes,Yes,No,Airways,No,Working Class,Yes,395.63
 0.58,22.0,Wood,5.21,23.43,Yes,No,Yes,,No,Working Class,No,413.61
 0.47,,Brass,12.6,90.33,Yes,Yes,No,Airways,No,Wealthy,No,1016.33
@@ -312,13 +312,13 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.03,14.0,Clay,5.52,23.0,No,No,Yes,Airways,Yes,Working Class,No,183.2
 0.16,23.0,Aluminium,5.99,15.45,No,No,No,Roadways,No,Working Class,No,-134.46
 0.3,27.0,Aluminium,4.92,14.94,No,Yes,Yes,Airways,No,Wealthy,No,238.6
-0.4,43.0,Brass,,97.64,Yes,No,Yes,Airways,No,Working Class,No,
+0.4,43.0,Brass,178.245,97.64,Yes,No,Yes,Airways,No,Working Class,No,2473.645
 0.5,19.0,Brass,14.02,21.08,Yes,No,No,Waterways,No,Working Class,Yes,284.32
-0.31,28.0,Stone,,97.67,No,Yes,Yes,Roadways,No,Working Class,No,
-0.49,38.0,Marble,,79.11,No,Yes,Yes,Roadways,Yes,Working Class,,
-0.13,31.0,Marble,,25.76,No,No,No,Roadways,No,Working Class,,-655.22
-0.18,,,3.87,16.5,No,No,No,Airways,No,Working Class,,143.84
-1.0,33.0,Aluminium,8.52,13.03,No,No,Yes,Airways,No,Working Class,No,
+0.31,28.0,Stone,178.245,97.67,No,Yes,Yes,Roadways,No,Working Class,No,-1197.075
+0.49,38.0,Marble,178.245,79.11,No,Yes,Yes,Roadways,Yes,Working Class,,-1197.075
+0.13,31.0,Marble,178.245,25.76,No,No,No,Roadways,No,Working Class,,-655.22
+0.18,54.5,,3.87,16.5,No,No,No,Airways,No,Working Class,,143.84
+1.0,33.0,Aluminium,8.52,13.03,No,No,Yes,Airways,No,Working Class,No,2473.645
 0.3,17.0,Bronze,5.04,18.19,No,No,Yes,Roadways,No,Working Class,No,223.29
 0.21,16.0,Wood,5.6,12.56,No,No,No,,No,Working Class,No,113.03
 0.09,20.0,Clay,5.47,23.88,No,No,No,Roadways,Yes,Working Class,No,178.56
@@ -327,14 +327,14 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 ,29.0,Wood,5.71,12.89,No,Yes,No,Airways,No,Wealthy,No,295.75
 0.57,17.0,Bronze,9.32,10.59,No,No,Yes,,No,Working Class,No,495.4
 0.38,18.0,Brass,22.39,90.61,Yes,No,Yes,Waterways,No,Wealthy,Yes,949.26
-0.31,,Stone,,73.92,No,No,Yes,,No,Working Class,No,759.72
+0.31,,Stone,178.245,73.92,No,No,Yes,,No,Working Class,No,759.72
 0.65,13.0,Clay,3.47,11.13,Yes,Yes,No,,Yes,Working Class,No,222.58
 0.37,20.0,Marble,92.02,54.91,Yes,No,No,Airways,No,Working Class,No,1783.44
 0.54,37.0,Aluminium,8.11,15.39,Yes,No,No,,No,Working Class,,484.24
-0.82,44.0,Marble,,60.28,No,Yes,No,Airways,Yes,Wealthy,No,
+0.82,44.0,Marble,178.245,60.28,No,Yes,No,Airways,Yes,Wealthy,No,2473.645
 0.07,3.0,Stone,4.46,24.61,No,Yes,Yes,Airways,No,Working Class,No,196.16
 0.76,13.0,Aluminium,6.76,17.8,No,No,No,Waterways,No,Working Class,No,392.53
-0.17,22.0,,,74.65,No,Yes,Yes,Roadways,No,Working Class,No,1795.89
+0.17,22.0,,178.245,74.65,No,Yes,Yes,Roadways,No,Working Class,No,1795.89
 0.39,25.0,Bronze,5.07,98.51,No,No,Yes,Airways,No,Working Class,No,-883.95
 0.27,4.0,Brass,3.22,11.43,No,No,No,Roadways,No,Working Class,No,119.24
 0.39,8.0,Aluminium,4.14,10.42,No,No,Yes,,No,Working Class,No,125.69
@@ -346,16 +346,16 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.42,18.0,Brass,31.41,56.41,No,Yes,Yes,Roadways,No,Working Class,No,648.98
 0.52,16.0,Bronze,7.08,17.91,No,No,No,Roadways,No,Working Class,No,322.02
 0.63,12.0,Marble,55.65,29.96,Yes,No,Yes,Airways,No,Wealthy,No,1233.03
-,51.0,,,82.02,Yes,No,No,Waterways,No,Working Class,No,
+,51.0,,178.245,82.02,Yes,No,No,Waterways,No,Working Class,No,2473.645
 0.71,45.0,Wood,4.33,10.78,Yes,Yes,No,Airways,No,Wealthy,,-404.9
 0.78,31.0,Aluminium,6.26,24.74,Yes,Yes,Yes,Airways,No,Working Class,No,1109.14
 0.05,25.0,Brass,16.79,37.46,No,No,No,Roadways,No,Working Class,No,247.15
 0.34,29.0,Aluminium,19.03,13.0,No,No,Yes,Roadways,No,Working Class,Yes,251.02
-0.54,24.0,Stone,,37.66,Yes,No,No,Waterways,No,Working Class,No,
-0.58,36.0,,,82.25,No,No,No,Roadways,No,Wealthy,,
+0.54,24.0,Stone,178.245,37.66,Yes,No,No,Waterways,No,Working Class,No,2473.645
+0.58,36.0,,178.245,82.25,No,No,No,Roadways,No,Wealthy,,2473.645
 0.02,9.0,Brass,6.36,24.67,Yes,No,Yes,Airways,No,Working Class,Yes,196.03
 0.39,7.0,Wood,5.11,23.68,No,Yes,Yes,Roadways,No,Wealthy,Yes,256.71
-0.36,15.0,,,44.47,No,No,No,Roadways,No,Wealthy,No,1715.6
+0.36,15.0,,178.245,44.47,No,No,No,Roadways,No,Wealthy,No,1715.6
 0.56,24.0,Aluminium,13.67,22.68,No,No,No,Roadways,No,Working Class,No,368.01
 0.31,26.0,Wood,5.95,10.58,Yes,No,No,Waterways,No,Wealthy,No,133.53
 0.17,47.0,Aluminium,19.82,63.79,No,No,No,Roadways,No,Working Class,No,-392.2
@@ -365,7 +365,7 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.24,31.0,Bronze,44.15,84.24,No,No,Yes,Roadways,No,Wealthy,Yes,792.35
 0.71,30.0,Clay,41.28,52.65,Yes,Yes,Yes,Airways,Yes,Working Class,No,2329.07
 0.05,24.0,Aluminium,5.16,18.83,No,No,No,Airways,No,Working Class,No,143.13
-0.36,32.0,Stone,,25.04,No,No,Yes,,No,Working Class,Yes,
+0.36,32.0,Stone,178.245,25.04,No,No,Yes,,No,Working Class,Yes,2473.645
 0.31,23.0,Brass,41.35,46.94,No,No,Yes,Roadways,No,Working Class,Yes,-700.89
 ,19.0,Bronze,19.58,35.06,Yes,No,No,Waterways,No,Working Class,No,783.51
 0.47,16.0,Aluminium,4.36,24.87,No,No,No,Airways,No,Working Class,No,255.67
@@ -376,12 +376,12 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.4,26.0,Clay,4.03,77.32,No,Yes,No,,Yes,Working Class,No,799.22
 ,17.0,Aluminium,4.5,11.71,No,No,No,Roadways,No,Working Class,No,282.01
 0.44,14.0,,3.19,12.76,No,No,No,Roadways,Yes,Working Class,No,180.59
-0.64,15.0,Stone,,62.8,No,No,No,,No,Working Class,No,1203.71
+0.64,15.0,Stone,178.245,62.8,No,No,No,,No,Working Class,No,1203.71
 0.76,23.0,Bronze,145.08,98.27,No,No,No,Roadways,No,Working Class,No,2136.88
 0.09,25.0,,8.23,75.98,Yes,Yes,No,Airways,No,Working Class,No,445.23
 0.62,,Clay,6.2,17.45,No,No,Yes,Roadways,Yes,Wealthy,No,689.69
 0.29,4.0,Brass,4.89,21.31,No,No,Yes,Roadways,No,Working Class,,191.55
-0.11,24.0,Marble,,93.49,Yes,No,No,Waterways,No,Working Class,No,
+0.11,24.0,Marble,178.245,93.49,Yes,No,No,Waterways,No,Working Class,No,2473.645
 0.41,30.0,Brass,45.36,42.16,No,No,Yes,Roadways,No,Working Class,No,717.5
 0.86,10.0,Brass,5.33,11.64,Yes,Yes,No,Airways,No,Wealthy,,440.09
 0.8,12.0,Bronze,5.4,10.46,Yes,No,No,,No,Wealthy,Yes,403.31
@@ -390,11 +390,11 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.03,41.0,Wood,5.58,18.88,No,Yes,Yes,Airways,No,Wealthy,No,-156.01
 0.08,26.0,Wood,6.59,20.13,Yes,No,No,Waterways,No,Working Class,No,126.3
 0.53,14.0,Clay,3.43,23.63,Yes,Yes,No,Airways,Yes,Working Class,No,-355.58
-0.57,30.0,Stone,,97.25,No,No,Yes,,No,Working Class,No,
-0.92,,,,60.79,No,Yes,No,Roadways,No,Working Class,,
+0.57,30.0,Stone,178.245,97.25,No,No,Yes,,No,Working Class,No,2473.645
+0.92,,,178.245,60.79,No,Yes,No,Roadways,No,Working Class,,-1197.075
 0.37,9.0,,4.41,23.94,Yes,No,Yes,,No,Working Class,No,-227.45
 0.48,30.0,Bronze,30.31,43.24,No,Yes,No,Airways,No,Wealthy,No,956.29
-0.52,35.0,Bronze,91.06,70.75,No,No,No,Waterways,No,Working Class,No,
+0.52,35.0,Bronze,91.06,70.75,No,No,No,Waterways,No,Working Class,No,2473.645
 0.23,15.0,Marble,132.02,57.31,Yes,No,No,Airways,No,Working Class,Yes,659.19
 ,19.0,Clay,8.12,18.05,No,Yes,No,,Yes,Working Class,No,482.14
 0.7,8.0,Aluminium,4.31,21.2,Yes,No,No,Airways,No,Working Class,Yes,323.84
@@ -403,21 +403,21 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.6,8.0,Wood,5.5,14.53,Yes,No,Yes,Roadways,No,Working Class,No,-247.89
 0.36,9.0,Aluminium,5.26,11.71,Yes,No,No,Waterways,No,Working Class,No,147.04
 0.16,27.0,Brass,49.28,65.75,No,Yes,Yes,Airways,No,Working Class,No,633.23
-0.88,24.0,Marble,,54.34,Yes,Yes,No,Airways,No,Working Class,No,
-,30.0,,,37.27,No,No,Yes,Waterways,No,Working Class,Yes,
+0.88,24.0,Marble,178.245,54.34,Yes,Yes,No,Airways,No,Working Class,No,-1197.075
+,30.0,,178.245,37.27,No,No,Yes,Waterways,No,Working Class,Yes,-1197.075
 0.65,,Wood,3.95,22.53,Yes,No,Yes,,No,Working Class,,575.17
 0.02,25.0,Bronze,11.67,89.34,No,No,No,Airways,No,Working Class,No,377.09
 ,5.0,Clay,4.77,19.45,No,No,No,Roadways,Yes,Working Class,No,187.99
 ,,Marble,148.56,92.07,No,No,No,Roadways,No,Working Class,No,499.57
 0.14,39.0,Clay,8.63,63.89,No,No,Yes,Roadways,Yes,Working Class,No,508.48
-0.62,23.0,Bronze,83.55,42.88,No,No,No,,No,Working Class,No,
+0.62,23.0,Bronze,83.55,42.88,No,No,No,,No,Working Class,No,2473.645
 0.79,12.0,Stone,152.83,41.65,No,No,No,Roadways,No,Working Class,No,1030.98
-0.1,37.0,Marble,,64.64,No,No,No,Roadways,Yes,Working Class,No,
+0.1,37.0,Marble,178.245,64.64,No,No,No,Roadways,Yes,Working Class,No,-1197.075
 0.02,,Clay,58.53,79.72,No,No,No,Roadways,Yes,Wealthy,No,548.05
 0.51,42.0,Bronze,57.88,75.42,No,No,No,,No,Working Class,No,1386.88
-0.79,18.0,Stone,,52.65,Yes,No,No,Airways,No,Working Class,No,
-0.77,32.0,Marble,,26.7,Yes,No,No,Waterways,No,Working Class,Yes,
-0.11,37.0,Marble,,86.37,No,No,No,,Yes,Working Class,Yes,
+0.79,18.0,Stone,178.245,52.65,Yes,No,No,Airways,No,Working Class,No,2473.645
+0.77,32.0,Marble,178.245,26.7,Yes,No,No,Waterways,No,Working Class,Yes,2473.645
+0.11,37.0,Marble,178.245,86.37,No,No,No,,Yes,Working Class,Yes,2473.645
 0.94,40.0,,20.4,18.69,No,Yes,Yes,Roadways,No,Wealthy,No,1549.96
 0.31,7.0,,3.4,11.76,No,Yes,No,Roadways,No,Working Class,No,235.99
 ,9.0,Bronze,5.03,24.22,No,No,No,Roadways,No,Working Class,No,218.06
@@ -425,7 +425,7 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 ,,Clay,6.61,16.39,Yes,No,No,,Yes,Working Class,No,153.1
 0.27,9.0,Clay,6.64,16.81,No,No,No,Roadways,Yes,Working Class,No,174.42
 0.09,13.0,Wood,4.4,14.83,No,No,Yes,Roadways,No,Working Class,No,120.93
-0.19,25.0,Marble,,47.69,No,Yes,Yes,Airways,No,Wealthy,No,
+0.19,25.0,Marble,178.245,47.69,No,Yes,Yes,Airways,No,Wealthy,No,2473.645
 0.28,4.0,Clay,5.27,22.62,No,No,No,Roadways,Yes,Working Class,Yes,176.66
 0.41,15.0,Wood,3.91,13.4,No,Yes,Yes,Airways,No,Wealthy,No,198.88
 0.26,16.0,,3.6,17.56,Yes,No,Yes,Airways,No,Wealthy,No,197.17
@@ -434,7 +434,7 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.53,9.0,Aluminium,5.42,19.82,No,No,Yes,Waterways,No,Working Class,No,233.86
 0.31,11.0,Bronze,5.54,11.16,No,Yes,No,,No,Wealthy,No,187.94
 0.32,26.0,,19.71,32.83,Yes,Yes,No,Airways,No,Wealthy,No,589.19
-0.15,25.0,Stone,,62.7,No,No,Yes,Waterways,No,Working Class,No,1737.87
+0.15,25.0,Stone,178.245,62.7,No,No,Yes,Waterways,No,Working Class,No,1737.87
 0.24,5.0,Marble,5.98,22.14,Yes,Yes,No,Airways,No,Wealthy,Yes,255.29
 0.6,10.0,Stone,30.66,30.65,Yes,No,Yes,Waterways,No,Wealthy,No,565.39
 0.55,24.0,Aluminium,12.69,19.0,No,No,No,Airways,No,Working Class,,349.21
@@ -442,35 +442,35 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 ,20.0,Aluminium,5.75,16.87,Yes,No,No,Airways,No,Working Class,No,172.31
 0.69,21.0,Brass,14.03,16.43,Yes,No,Yes,Waterways,No,Working Class,No,-359.72
 0.2,12.0,Aluminium,6.38,11.63,No,No,Yes,Roadways,No,Working Class,Yes,148.28
-0.34,26.0,Marble,,86.02,No,No,Yes,,No,Working Class,No,1432.5
+0.34,26.0,Marble,178.245,86.02,No,No,Yes,,No,Working Class,No,1432.5
 0.89,19.0,Brass,32.16,61.77,No,No,No,Roadways,No,Wealthy,No,2163.53
 0.26,37.0,Brass,57.13,69.38,No,Yes,No,Airways,No,Wealthy,No,849.53
 0.89,28.0,Bronze,131.98,38.63,No,No,Yes,Airways,No,Wealthy,No,2182.41
 0.29,18.0,Stone,35.48,73.94,No,No,No,Waterways,No,Working Class,No,635.82
 0.82,4.0,Aluminium,4.54,13.28,Yes,No,No,Waterways,No,Working Class,No,-185.59
-0.78,34.0,Stone,,36.09,No,Yes,Yes,Airways,No,Wealthy,No,
+0.78,34.0,Stone,178.245,36.09,No,Yes,Yes,Airways,No,Wealthy,No,2473.645
 0.75,,,21.58,55.86,No,No,No,,No,Working Class,No,1724.55
 0.38,3.0,Marble,6.81,24.35,No,No,No,Roadways,No,Working Class,No,229.84
 0.74,10.0,Aluminium,6.75,12.91,No,No,No,Roadways,No,Working Class,No,298.46
 0.64,29.0,Clay,8.3,10.11,No,No,No,,Yes,Working Class,No,461.17
-0.95,25.0,Brass,76.54,92.67,Yes,Yes,Yes,Airways,No,Wealthy,No,
+0.95,25.0,Brass,76.54,92.67,Yes,Yes,Yes,Airways,No,Wealthy,No,2473.645
 0.61,17.0,Clay,3.81,24.95,No,No,No,,Yes,Working Class,,384.18
-0.87,,Stone,,53.53,Yes,No,Yes,Waterways,No,Working Class,No,
+0.87,,Stone,178.245,53.53,Yes,No,Yes,Waterways,No,Working Class,No,2473.645
 0.73,,Brass,16.35,22.29,Yes,No,No,Waterways,No,Working Class,,427.8
-0.52,37.0,Marble,,56.9,No,No,No,Waterways,Yes,Working Class,,
+0.52,37.0,Marble,178.245,56.9,No,No,No,Waterways,Yes,Working Class,,2473.645
 0.3,16.0,Aluminium,5.21,20.93,Yes,No,No,Waterways,No,Wealthy,No,222.85
 0.81,10.0,Clay,4.43,21.2,Yes,Yes,No,Airways,Yes,Working Class,No,403.92
 0.77,28.0,Clay,28.02,23.0,No,No,Yes,Airways,Yes,Working Class,No,835.68
 0.03,12.0,Clay,5.52,23.17,Yes,No,Yes,Airways,Yes,Wealthy,No,190.43
-0.66,38.0,Bronze,,47.75,Yes,No,Yes,Waterways,No,Working Class,No,
-0.5,29.0,Marble,,35.57,Yes,No,No,Waterways,No,Working Class,Yes,
+0.66,38.0,Bronze,178.245,47.75,Yes,No,Yes,Waterways,No,Working Class,No,2473.645
+0.5,29.0,Marble,178.245,35.57,Yes,No,No,Waterways,No,Working Class,Yes,2473.645
 0.36,30.0,Bronze,23.55,46.57,No,No,Yes,Roadways,No,Working Class,No,541.14
 0.47,11.0,Stone,11.83,67.02,No,Yes,Yes,Roadways,No,Working Class,No,805.4
 0.93,20.0,,38.65,56.44,No,No,Yes,Waterways,No,Wealthy,No,2246.76
 ,12.0,Stone,20.63,69.22,No,No,Yes,Roadways,No,Working Class,,475.7
 0.5,3.0,Clay,5.06,11.35,No,Yes,Yes,Airways,Yes,Wealthy,No,178.51
 0.05,6.0,Aluminium,4.53,14.33,Yes,No,Yes,Waterways,No,Wealthy,No,126.15
-0.6,21.0,Stone,,34.45,Yes,Yes,Yes,,No,Working Class,No,2028.79
+0.6,21.0,Stone,178.245,34.45,Yes,Yes,Yes,,No,Working Class,No,2028.79
 0.55,8.0,Wood,6.6,14.63,No,Yes,Yes,Airways,No,Working Class,No,202.39
 0.74,24.0,Aluminium,5.23,20.11,Yes,Yes,Yes,Airways,No,Working Class,No,625.18
 0.41,28.0,Wood,3.13,24.92,Yes,Yes,No,Airways,No,Working Class,No,-326.66
@@ -483,11 +483,11 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.86,29.0,Bronze,12.85,60.56,Yes,No,No,Waterways,No,Wealthy,No,2065.68
 0.76,27.0,Aluminium,3.87,18.09,Yes,Yes,Yes,Airways,No,Wealthy,,716.87
 0.38,45.0,Clay,34.91,29.74,Yes,Yes,No,Airways,Yes,Wealthy,No,745.23
-,25.0,Marble,,63.03,Yes,Yes,No,Airways,No,Wealthy,No,
+,25.0,Marble,178.245,63.03,Yes,Yes,No,Airways,No,Wealthy,No,2473.645
 ,23.0,Brass,33.77,66.99,No,No,No,Waterways,No,Working Class,No,995.83
 0.91,14.0,Aluminium,4.28,23.63,No,No,No,Roadways,No,Working Class,No,520.5
 0.06,11.0,Marble,23.84,45.47,Yes,No,No,Airways,No,Working Class,No,371.76
-,28.0,Brass,,32.25,Yes,No,Yes,,No,Wealthy,No,941.8
+,28.0,Brass,178.245,32.25,Yes,No,Yes,,No,Wealthy,No,941.8
 0.38,15.0,Marble,133.3,95.05,No,No,Yes,Roadways,No,Working Class,No,904.72
 0.44,33.0,,6.27,15.94,Yes,No,Yes,,No,Working Class,No,-261.53
 0.41,12.0,Marble,26.45,31.01,No,No,No,Roadways,No,Working Class,No,353.05
@@ -496,13 +496,13 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.29,24.0,Wood,3.02,21.64,Yes,No,No,Waterways,No,Working Class,,203.9
 0.5,17.0,Aluminium,6.21,17.09,Yes,Yes,No,Airways,No,Working Class,,294.92
 0.19,29.0,Brass,40.42,63.25,No,Yes,No,Roadways,No,Working Class,,525.13
-0.96,17.0,Marble,,41.71,No,No,Yes,Roadways,No,Working Class,No,1918.85
+0.96,17.0,Marble,178.245,41.71,No,No,Yes,Roadways,No,Working Class,No,1918.85
 0.9,9.0,Clay,4.2,15.73,No,No,Yes,Roadways,Yes,Working Class,Yes,-346.45
 0.05,26.0,Bronze,37.52,86.35,Yes,No,Yes,Waterways,No,Wealthy,No,508.31
 0.36,11.0,Stone,116.58,50.03,No,No,No,Roadways,No,Working Class,No,635.85
 0.24,28.0,Brass,144.82,68.64,Yes,No,Yes,Waterways,No,Working Class,No,716.89
 0.22,8.0,Aluminium,3.18,10.85,Yes,No,No,Waterways,No,Working Class,Yes,108.52
-0.63,35.0,Stone,,70.93,No,No,Yes,Roadways,No,Working Class,No,
+0.63,35.0,Stone,178.245,70.93,No,No,Yes,Roadways,No,Working Class,No,2473.645
 0.81,19.0,Bronze,9.23,22.87,No,Yes,Yes,Airways,No,Working Class,No,1784.49
 0.33,36.0,,8.83,58.63,Yes,Yes,No,Airways,No,Working Class,,695.64
 0.42,35.0,Brass,20.28,62.46,Yes,No,No,,No,Working Class,Yes,1233.7
@@ -512,14 +512,14 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.5,16.0,Brass,3.34,18.85,No,No,No,Airways,No,Working Class,Yes,-236.89
 0.26,16.0,Marble,121.11,68.94,No,No,Yes,Waterways,No,Wealthy,No,682.03
 0.41,42.0,Aluminium,6.43,10.78,Yes,No,No,Airways,No,Wealthy,,233.45
-0.17,45.0,Stone,,54.66,Yes,No,No,Waterways,No,Working Class,No,
+0.17,45.0,Stone,178.245,54.66,Yes,No,No,Waterways,No,Working Class,No,2473.645
 0.4,19.0,Brass,19.49,95.69,Yes,No,Yes,Waterways,No,Working Class,No,-834.86
 0.03,6.0,Wood,4.0,18.78,No,Yes,Yes,Roadways,No,Wealthy,No,139.75
 0.82,4.0,Wood,5.08,18.37,No,Yes,Yes,,No,Wealthy,No,317.88
 0.23,30.0,Brass,158.73,36.43,Yes,No,Yes,,No,Wealthy,Yes,624.38
 0.25,,Aluminium,4.62,18.26,Yes,No,No,Waterways,No,Working Class,No,180.45
 0.15,20.0,Wood,3.5,17.3,Yes,No,Yes,Airways,No,Working Class,No,147.71
-0.17,32.0,Stone,,74.08,No,Yes,No,Roadways,No,Working Class,Yes,
+0.17,32.0,Stone,178.245,74.08,No,Yes,No,Roadways,No,Working Class,Yes,2473.645
 0.98,13.0,Aluminium,6.74,14.19,No,No,Yes,,No,Working Class,No,717.36
 0.06,9.0,,3.8,21.82,No,Yes,No,,No,Wealthy,,147.99
 0.36,21.0,Wood,5.87,19.52,Yes,Yes,Yes,,No,Working Class,,300.57
@@ -530,18 +530,18 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.7,19.0,Bronze,4.28,66.38,Yes,No,No,,No,Working Class,No,999.66
 0.62,40.0,Bronze,23.57,90.27,No,No,No,Roadways,No,Working Class,No,1892.96
 ,7.0,Bronze,3.53,13.88,No,Yes,No,Roadways,No,Working Class,No,112.56
-0.64,32.0,,53.63,59.21,No,No,No,Roadways,No,Working Class,No,
+0.64,32.0,,53.63,59.21,No,No,No,Roadways,No,Working Class,No,-1197.075
 0.88,19.0,Aluminium,4.56,16.75,Yes,No,No,Airways,No,Working Class,No,458.05
 0.87,19.0,Bronze,36.02,18.54,No,No,No,Roadways,No,Working Class,,627.7
-0.42,26.0,Stone,,59.02,No,No,No,,No,Working Class,No,
+0.42,26.0,Stone,178.245,59.02,No,No,No,,No,Working Class,No,2473.645
 0.11,10.0,Aluminium,4.15,12.77,No,No,Yes,Airways,No,Working Class,Yes,119.3
-0.67,,,,47.54,No,No,No,Waterways,Yes,Working Class,No,
+0.67,54.5,,178.245,47.54,No,No,No,Waterways,Yes,Working Class,No,2473.645
 0.16,4.0,Marble,3.02,11.92,Yes,Yes,No,Airways,No,Working Class,No,183.01
 0.12,32.0,Bronze,71.9,58.97,No,No,Yes,Roadways,No,Working Class,No,617.43
-0.13,34.0,Stone,,29.79,Yes,Yes,Yes,Airways,No,Wealthy,No,
+0.13,34.0,Stone,178.245,29.79,Yes,Yes,Yes,Airways,No,Wealthy,No,2473.645
 0.42,20.0,Wood,5.96,15.33,Yes,No,No,,No,Working Class,,-198.53
 0.08,15.0,Brass,3.52,29.15,Yes,No,No,Waterways,No,Working Class,No,182.68
-0.67,26.0,Stone,,75.88,No,No,No,Waterways,No,Working Class,Yes,
+0.67,26.0,Stone,178.245,75.88,No,No,No,Waterways,No,Working Class,Yes,2473.645
 ,20.0,Brass,64.97,26.26,No,Yes,No,,No,Wealthy,No,693.35
 0.45,33.0,Wood,6.82,24.63,No,No,No,Roadways,No,Wealthy,Yes,400.49
 0.08,5.0,Wood,5.43,19.42,No,Yes,No,Airways,No,Working Class,No,111.56
@@ -549,45 +549,45 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.16,41.0,Aluminium,5.05,16.64,No,No,Yes,Waterways,No,Working Class,No,190.46
 0.32,11.0,Brass,9.48,13.42,No,No,No,Roadways,No,Working Class,No,223.06
 ,13.0,,59.79,63.48,Yes,No,Yes,,No,Working Class,No,536.09
-0.32,25.0,Marble,,70.11,Yes,No,No,Waterways,No,Working Class,No,1828.23
-0.4,38.0,,,69.69,No,No,No,,No,Working Class,No,1792.83
+0.32,25.0,Marble,178.245,70.11,Yes,No,No,Waterways,No,Working Class,No,1828.23
+0.4,38.0,,178.245,69.69,No,No,No,,No,Working Class,No,1792.83
 0.37,24.0,Aluminium,3.36,16.7,No,No,Yes,Roadways,No,Working Class,Yes,220.62
-0.1,,Stone,,96.07,No,No,No,Airways,No,Working Class,No,
+0.1,,Stone,178.245,96.07,No,No,No,Airways,No,Working Class,No,2473.645
 0.58,,Wood,6.08,20.91,No,Yes,No,Airways,No,Wealthy,No,-498.1
-0.56,18.0,Marble,,94.79,No,No,Yes,,No,Working Class,,1423.05
+0.56,18.0,Marble,178.245,94.79,No,No,Yes,,No,Working Class,,1423.05
 0.27,8.0,Brass,4.05,21.97,No,No,No,Airways,No,Wealthy,No,204.56
 ,4.0,Marble,4.68,12.05,No,No,Yes,Roadways,No,Wealthy,Yes,-217.65
-0.1,29.0,Marble,,55.4,No,No,Yes,Roadways,No,Working Class,No,939.5
+0.1,29.0,Marble,178.245,55.4,No,No,Yes,Roadways,No,Working Class,No,939.5
 0.29,11.0,Stone,124.57,87.48,No,No,No,Roadways,No,Working Class,No,743.13
-0.67,34.0,Stone,,44.95,Yes,No,Yes,Waterways,No,Working Class,No,
+0.67,34.0,Stone,178.245,44.95,Yes,No,Yes,Waterways,No,Working Class,No,-1197.075
 ,5.0,,6.66,12.89,No,Yes,Yes,Airways,No,Working Class,No,545.6
 0.87,,Marble,5.5,17.95,No,No,No,Roadways,No,Working Class,,-327.76
-0.41,28.0,Marble,,90.64,No,No,Yes,Roadways,No,Working Class,No,2160.68
-0.09,,Stone,,70.18,No,Yes,No,,No,Working Class,No,
+0.41,28.0,Marble,178.245,90.64,No,No,Yes,Roadways,No,Working Class,No,2160.68
+0.09,54.5,Stone,178.245,70.18,No,Yes,No,,No,Working Class,No,2473.645
 ,47.0,Wood,4.36,11.39,No,No,Yes,,No,Working Class,No,117.54
-0.01,29.0,Marble,,75.76,No,No,No,Roadways,No,Working Class,No,
+0.01,29.0,Marble,178.245,75.76,No,No,No,Roadways,No,Working Class,No,2473.645
 0.81,9.0,Bronze,6.0,15.35,No,No,Yes,Airways,No,Working Class,No,410.59
 0.15,25.0,Wood,4.07,20.28,No,No,Yes,Roadways,No,Working Class,No,178.93
 0.22,13.0,Stone,40.27,48.15,Yes,No,Yes,Waterways,No,Working Class,No,495.22
-0.6,19.0,Marble,,75.07,Yes,No,No,Waterways,No,Wealthy,No,
+0.6,19.0,Marble,178.245,75.07,Yes,No,No,Waterways,No,Wealthy,No,2473.645
 0.18,7.0,Brass,4.34,17.4,Yes,Yes,No,,No,Wealthy,No,203.45
-0.98,30.0,Marble,,34.42,Yes,Yes,Yes,Airways,No,Working Class,Yes,
-0.06,20.0,Marble,,62.14,Yes,No,No,,No,Working Class,No,801.95
+0.98,30.0,Marble,178.245,34.42,Yes,Yes,Yes,Airways,No,Working Class,Yes,2473.645
+0.06,20.0,Marble,178.245,62.14,Yes,No,No,,No,Working Class,No,801.95
 0.86,18.0,,4.38,15.93,No,No,Yes,Airways,No,Working Class,,478.17
 0.68,12.0,Brass,9.52,21.59,No,No,No,Roadways,No,Working Class,No,859.86
-0.6,24.0,Marble,,68.46,Yes,Yes,Yes,Airways,No,Wealthy,No,
-0.17,22.0,Marble,,61.98,No,No,Yes,Airways,No,Wealthy,Yes,
+0.6,24.0,Marble,178.245,68.46,Yes,Yes,Yes,Airways,No,Wealthy,No,2473.645
+0.17,22.0,Marble,178.245,61.98,No,No,Yes,Airways,No,Wealthy,Yes,2473.645
 0.14,23.0,Aluminium,4.61,12.13,No,No,No,Roadways,No,Working Class,No,102.63
-0.7,,Marble,,49.58,No,No,No,,No,Working Class,No,
+0.7,,Marble,178.245,49.58,No,No,No,,No,Working Class,No,-1197.075
 0.12,9.0,Aluminium,4.97,22.53,No,No,No,Airways,No,Working Class,No,-131.56
 0.59,36.0,Clay,5.37,15.45,No,No,No,Airways,Yes,Working Class,No,441.79
-0.64,38.0,Stone,,75.61,No,No,Yes,Roadways,No,Working Class,No,
-0.12,37.0,Brass,,82.75,No,Yes,No,Airways,No,Wealthy,No,1026.35
+0.64,38.0,Stone,178.245,75.61,No,No,Yes,Roadways,No,Working Class,No,-1197.075
+0.12,37.0,Brass,178.245,82.75,No,Yes,No,Airways,No,Wealthy,No,1026.35
 0.2,30.0,Brass,12.18,90.23,No,Yes,Yes,Roadways,No,Wealthy,No,738.06
-0.05,22.0,Marble,,44.98,Yes,No,No,Airways,No,Working Class,No,752.68
-0.36,32.0,Marble,,91.24,No,Yes,No,,No,Wealthy,,
+0.05,22.0,Marble,178.245,44.98,Yes,No,No,Airways,No,Working Class,No,752.68
+0.36,32.0,Marble,178.245,91.24,No,Yes,No,,No,Wealthy,,2473.645
 0.52,6.0,Stone,30.53,81.56,Yes,No,No,Waterways,No,Working Class,No,-661.2
-0.36,42.0,Brass,,48.88,Yes,No,Yes,Waterways,No,Working Class,No,2171.91
+0.36,42.0,Brass,178.245,48.88,Yes,No,Yes,Waterways,No,Working Class,No,2171.91
 0.35,30.0,Wood,3.39,14.84,Yes,No,No,,No,Working Class,No,160.97
 0.94,12.0,Aluminium,4.61,21.53,Yes,No,No,Airways,No,Working Class,Yes,541.37
 0.04,18.0,Aluminium,3.66,11.86,No,Yes,No,Airways,No,Working Class,No,111.11
@@ -599,9 +599,9 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.64,33.0,Bronze,115.38,58.53,Yes,No,No,Roadways,No,Working Class,,1666.98
 0.06,33.0,,23.51,63.27,No,Yes,Yes,Roadways,No,Wealthy,,469.61
 0.01,5.0,Stone,6.58,23.74,No,Yes,No,Roadways,No,Wealthy,No,266.54
-0.69,,Marble,,43.33,No,No,Yes,Roadways,Yes,Working Class,No,
+0.69,54.5,Marble,178.245,43.33,No,No,Yes,Roadways,Yes,Working Class,No,2473.645
 0.77,6.0,Wood,4.41,24.17,No,No,No,Roadways,No,Working Class,No,308.02
-0.0,37.0,Stone,,65.2,No,No,No,,No,Working Class,No,
+0.0,37.0,Stone,178.245,65.2,No,No,No,,No,Working Class,No,2473.645
 0.78,16.0,Aluminium,3.19,11.17,Yes,No,Yes,Waterways,No,Working Class,No,-302.53
 0.83,7.0,Wood,4.9,22.18,No,No,No,Airways,No,Working Class,No,277.6
 0.03,19.0,Clay,3.02,11.85,No,No,No,Roadways,Yes,Working Class,No,121.36
@@ -612,19 +612,19 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.72,33.0,Clay,5.22,20.87,No,Yes,No,Airways,Yes,Wealthy,No,857.29
 0.13,19.0,Marble,73.28,61.14,No,Yes,No,Airways,No,Working Class,No,574.82
 0.57,25.0,,5.68,18.69,Yes,No,Yes,Waterways,Yes,Working Class,No,364.56
-0.35,,Aluminium,76.19,58.13,Yes,No,No,Airways,No,Working Class,Yes,1138.92
+0.35,54.5,Aluminium,76.19,58.13,Yes,No,No,Airways,No,Working Class,Yes,1138.92
 0.42,47.0,Aluminium,11.35,99.3,No,No,Yes,Roadways,No,Working Class,No,1279.12
 0.82,8.0,Stone,45.66,50.39,No,No,No,Waterways,No,Working Class,No,939.27
-0.77,30.0,Brass,99.92,42.49,No,No,No,Roadways,No,Working Class,No,
-0.57,31.0,Brass,,44.1,Yes,No,Yes,Waterways,No,Working Class,No,
+0.77,30.0,Brass,99.92,42.49,No,No,No,Roadways,No,Working Class,No,2473.645
+0.57,31.0,Brass,178.245,44.1,Yes,No,Yes,Waterways,No,Working Class,No,-1197.075
 0.17,17.0,Clay,7.48,23.43,Yes,No,No,Waterways,Yes,Working Class,No,200.39
-0.71,29.0,Stone,,96.27,No,No,No,,No,Working Class,No,
+0.71,29.0,Stone,178.245,96.27,No,No,No,,No,Working Class,No,2473.645
 0.26,15.0,Brass,6.31,14.58,Yes,Yes,Yes,Airways,No,Wealthy,No,-350.94
-0.15,22.0,Marble,,40.88,No,No,No,,No,Working Class,No,
-0.56,47.0,Marble,,76.31,No,Yes,No,Roadways,Yes,Working Class,Yes,
+0.15,22.0,Marble,178.245,40.88,No,No,No,,No,Working Class,No,2473.645
+0.56,47.0,Marble,178.245,76.31,No,Yes,No,Roadways,Yes,Working Class,Yes,2473.645
 0.07,14.0,Brass,9.48,20.86,No,Yes,Yes,,No,Wealthy,No,231.05
 ,28.0,Aluminium,5.68,13.27,No,No,Yes,Roadways,No,Wealthy,No,223.19
-0.59,12.0,Stone,,58.25,No,Yes,Yes,,No,Working Class,No,1738.1
+0.59,12.0,Stone,178.245,58.25,No,Yes,Yes,,No,Working Class,No,1738.1
 ,4.0,Brass,4.3,14.1,No,No,No,,No,Working Class,,135.26
 0.69,20.0,Bronze,34.71,54.31,No,Yes,No,,No,Working Class,Yes,1219.77
 0.53,40.0,Wood,5.84,11.46,Yes,Yes,No,Airways,No,Wealthy,No,-422.41
@@ -637,61 +637,61 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.36,6.0,,5.55,19.39,No,No,No,Airways,No,Working Class,No,201.68
 0.4,26.0,Aluminium,5.84,21.77,No,No,No,Roadways,No,Working Class,Yes,276.23
 0.44,7.0,Stone,12.51,14.99,No,No,Yes,,No,Working Class,,254.67
-,45.0,,166.74,71.77,Yes,Yes,Yes,,Yes,Working Class,No,
-0.46,29.0,Marble,,94.47,Yes,No,No,Roadways,No,Working Class,No,
+,45.0,,166.74,71.77,Yes,Yes,Yes,,Yes,Working Class,No,2473.645
+0.46,29.0,Marble,178.245,94.47,Yes,No,No,Roadways,No,Working Class,No,2473.645
 ,45.0,Wood,4.57,24.8,Yes,No,No,Waterways,No,Working Class,No,-553.43
-0.22,42.0,Brass,,85.95,Yes,Yes,No,Airways,No,Wealthy,No,
+0.22,42.0,Brass,178.245,85.95,Yes,Yes,No,Airways,No,Wealthy,No,2473.645
 0.56,9.0,Brass,5.32,24.74,Yes,No,No,Waterways,No,Working Class,No,318.34
 0.94,,,5.8,13.0,Yes,No,Yes,Waterways,No,Working Class,Yes,293.89
-0.04,26.0,Stone,,90.56,No,No,No,Airways,No,Working Class,No,978.29
+0.04,26.0,Stone,178.245,90.56,No,No,No,Airways,No,Working Class,No,978.29
 ,31.0,Aluminium,6.58,22.71,Yes,Yes,Yes,Airways,No,Working Class,Yes,325.89
-0.64,21.0,Stone,,75.2,No,Yes,No,,No,Wealthy,Yes,
-0.7,25.0,Marble,,96.48,No,Yes,No,,No,Wealthy,No,
+0.64,21.0,Stone,178.245,75.2,No,Yes,No,,No,Wealthy,Yes,2473.645
+0.7,25.0,Marble,178.245,96.48,No,Yes,No,,No,Wealthy,No,2473.645
 ,5.0,Marble,3.81,21.83,No,Yes,No,Roadways,No,Wealthy,,208.61
 0.65,14.0,Wood,3.14,17.36,No,No,Yes,Roadways,No,Working Class,No,-265.0
 0.01,14.0,Wood,4.17,23.22,No,Yes,Yes,,No,Working Class,,144.45
 0.54,,Bronze,45.95,38.07,No,Yes,No,Roadways,No,Wealthy,No,961.87
 0.8,29.0,Aluminium,11.77,19.77,No,No,Yes,Waterways,No,Working Class,No,621.85
-0.97,16.0,Stone,,84.97,Yes,No,Yes,Waterways,No,Working Class,No,
-0.55,41.0,Stone,,74.92,No,No,No,Airways,No,Working Class,No,
+0.97,16.0,Stone,178.245,84.97,Yes,No,Yes,Waterways,No,Working Class,No,2473.645
+0.55,41.0,Stone,178.245,74.92,No,No,No,Airways,No,Working Class,No,2473.645
 0.97,34.0,Wood,6.03,24.94,Yes,Yes,No,Airways,No,Working Class,No,1577.2
 0.2,19.0,Bronze,11.91,40.62,Yes,No,No,Roadways,No,Working Class,No,336.57
 0.51,29.0,Aluminium,4.39,11.62,No,No,No,Roadways,No,Working Class,No,-192.74
-0.54,36.0,Brass,61.6,48.17,No,No,Yes,,No,Working Class,No,
+0.54,36.0,Brass,61.6,48.17,No,No,Yes,,No,Working Class,No,-1197.075
 0.84,9.0,Aluminium,5.83,18.88,Yes,No,Yes,Waterways,No,Working Class,No,354.71
 0.59,22.0,,115.41,26.53,No,Yes,Yes,Roadways,No,Working Class,Yes,1142.51
 0.2,7.0,,4.87,16.29,No,No,No,,No,Working Class,No,129.39
 0.61,28.0,Brass,19.62,51.39,No,No,Yes,Roadways,No,Working Class,Yes,960.33
-0.1,37.0,Stone,,33.73,No,Yes,No,Airways,No,Wealthy,No,
-0.47,22.0,,,52.8,No,Yes,Yes,,No,Working Class,No,
+0.1,37.0,Stone,178.245,33.73,No,Yes,No,Airways,No,Wealthy,No,-1197.075
+0.47,22.0,,178.245,52.8,No,Yes,Yes,,No,Working Class,No,2473.645
 0.58,10.0,Clay,6.81,17.9,Yes,No,No,,Yes,Working Class,No,269.22
-0.79,31.0,Aluminium,7.59,62.61,No,Yes,No,Airways,No,Wealthy,No,
+0.79,31.0,Aluminium,7.59,62.61,No,Yes,No,Airways,No,Wealthy,No,2473.645
 0.87,14.0,Brass,13.32,17.45,Yes,No,No,Waterways,No,Wealthy,No,448.07
 ,,Stone,6.93,15.61,No,No,No,Waterways,No,Working Class,Yes,212.65
-0.17,47.0,Marble,,77.49,No,No,No,Roadways,Yes,Working Class,Yes,2366.05
-0.68,47.0,Bronze,34.71,91.34,No,No,Yes,Waterways,No,Working Class,No,
+0.17,47.0,Marble,178.245,77.49,No,No,No,Roadways,Yes,Working Class,Yes,2366.05
+0.68,47.0,Bronze,34.71,91.34,No,No,Yes,Waterways,No,Working Class,No,2473.645
 0.21,19.0,Clay,5.94,21.57,Yes,No,Yes,Airways,Yes,Working Class,No,224.0
-0.15,46.0,Marble,,70.93,No,No,No,Roadways,Yes,Working Class,No,
-0.49,31.0,Stone,,61.68,No,No,Yes,Roadways,No,Working Class,No,
+0.15,46.0,Marble,178.245,70.93,No,No,No,Roadways,Yes,Working Class,No,-1197.075
+0.49,31.0,Stone,178.245,61.68,No,No,Yes,Roadways,No,Working Class,No,-1197.075
 0.2,3.0,,4.69,18.32,No,No,No,Waterways,No,Working Class,No,128.34
 0.51,7.0,Marble,6.36,17.95,No,No,Yes,Roadways,No,Working Class,No,267.95
-0.2,26.0,Stone,,92.0,No,No,No,Roadways,No,Working Class,No,
-0.57,40.0,Marble,,44.96,No,No,No,Roadways,Yes,Working Class,No,
+0.2,26.0,Stone,178.245,92.0,No,No,No,Roadways,No,Working Class,No,-1197.075
+0.57,40.0,Marble,178.245,44.96,No,No,No,Roadways,Yes,Working Class,No,2473.645
 0.81,24.0,,51.7,60.24,No,No,Yes,,No,Working Class,No,2429.41
 0.53,30.0,Aluminium,5.94,14.62,Yes,No,No,Waterways,No,Working Class,Yes,232.25
-0.48,45.0,Brass,,44.18,Yes,No,No,Waterways,No,Wealthy,No,
+0.48,45.0,Brass,178.245,44.18,Yes,No,No,Waterways,No,Wealthy,No,2473.645
 0.67,10.0,Brass,4.77,24.78,No,Yes,No,Airways,No,Working Class,Yes,-338.16
 0.58,,Aluminium,4.28,19.83,No,No,No,,No,Working Class,Yes,-205.19
 0.84,6.0,Stone,12.67,21.04,Yes,No,Yes,Waterways,No,Working Class,No,422.21
-0.04,24.0,Marble,,38.47,Yes,No,Yes,Waterways,No,Working Class,No,577.31
-0.8,22.0,Marble,,77.21,Yes,Yes,No,Airways,No,Working Class,No,
-0.77,17.0,Brass,70.89,87.61,No,No,No,,No,Working Class,No,
+0.04,24.0,Marble,178.245,38.47,Yes,No,Yes,Waterways,No,Working Class,No,577.31
+0.8,22.0,Marble,178.245,77.21,Yes,Yes,No,Airways,No,Working Class,No,2473.645
+0.77,17.0,Brass,70.89,87.61,No,No,No,,No,Working Class,No,2473.645
 0.26,30.0,Bronze,6.26,28.96,Yes,Yes,No,Airways,No,Wealthy,No,402.79
 0.34,25.0,,6.97,23.26,Yes,No,No,Waterways,No,Wealthy,No,264.6
 0.54,28.0,Bronze,17.14,82.1,No,No,No,Roadways,No,Working Class,,1053.9
-0.54,,Stone,165.05,86.65,No,No,Yes,Roadways,No,Wealthy,No,
+0.54,,Stone,165.05,86.65,No,No,Yes,Roadways,No,Wealthy,No,-1197.075
 0.14,3.0,Clay,4.81,17.58,No,No,Yes,Roadways,Yes,Working Class,No,149.62
-,44.0,Clay,75.27,57.68,No,No,Yes,Roadways,Yes,Working Class,No,
+,44.0,Clay,75.27,57.68,No,No,Yes,Roadways,Yes,Working Class,No,2473.645
 0.64,,Wood,3.63,14.65,Yes,No,No,Airways,No,Working Class,No,431.55
 0.52,22.0,Brass,35.8,82.08,No,Yes,No,Roadways,No,Working Class,Yes,1207.95
 0.97,11.0,Aluminium,5.41,14.42,Yes,No,Yes,Waterways,No,Working Class,Yes,-634.08
@@ -699,40 +699,40 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.91,3.0,Wood,6.11,14.73,No,Yes,No,Airways,No,Wealthy,,409.62
 0.23,5.0,Aluminium,5.47,15.5,Yes,Yes,Yes,Airways,No,Working Class,No,154.18
 0.87,22.0,Aluminium,4.21,18.0,Yes,No,Yes,Waterways,No,Working Class,,523.55
-0.6,,Marble,,92.44,No,No,Yes,,No,Working Class,,
+0.6,,Marble,178.245,92.44,No,No,Yes,,No,Working Class,,-1197.075
 0.09,7.0,Bronze,5.44,14.6,No,No,No,Roadways,No,Wealthy,No,132.01
 0.47,19.0,Brass,5.64,13.4,Yes,No,Yes,Airways,No,Working Class,No,348.47
 0.21,39.0,Bronze,151.72,60.82,No,No,No,,No,Working Class,No,949.33
 0.46,12.0,Clay,4.95,17.35,Yes,Yes,No,Airways,Yes,Working Class,Yes,255.48
 0.36,19.0,Aluminium,6.94,11.46,No,No,No,Roadways,No,Working Class,Yes,171.28
-0.82,39.0,Marble,,76.8,No,No,Yes,Airways,Yes,Wealthy,No,
+0.82,39.0,Marble,178.245,76.8,No,No,Yes,Airways,Yes,Wealthy,No,2473.645
 0.87,7.0,Aluminium,4.09,15.01,No,No,No,,No,Working Class,Yes,252.61
 0.99,30.0,Aluminium,5.91,14.04,Yes,No,Yes,Waterways,No,Working Class,No,-801.86
-0.61,29.0,Stone,,81.62,No,No,Yes,Waterways,No,Working Class,No,
+0.61,29.0,Stone,178.245,81.62,No,No,Yes,Waterways,No,Working Class,No,2473.645
 0.35,27.0,Wood,5.43,18.98,No,No,Yes,,No,Working Class,Yes,234.87
 0.49,29.0,Bronze,18.89,54.2,No,Yes,No,Airways,No,Working Class,Yes,753.74
 0.26,18.0,Aluminium,6.58,19.03,Yes,Yes,No,Airways,No,Wealthy,No,214.33
 0.97,9.0,,28.48,18.0,No,No,No,Roadways,No,Working Class,No,-478.06
 0.68,12.0,Clay,6.11,13.57,No,Yes,Yes,Airways,Yes,Wealthy,No,479.27
 0.23,7.0,Bronze,5.25,14.88,No,Yes,Yes,Roadways,No,Wealthy,No,169.24
-0.05,30.0,Marble,,81.98,No,No,No,Roadways,No,Working Class,Yes,1672.75
+0.05,30.0,Marble,178.245,81.98,No,No,No,Roadways,No,Working Class,Yes,1672.75
 0.81,,,11.38,24.14,No,No,Yes,Roadways,No,Working Class,,354.68
-0.92,6.0,Marble,,19.92,No,No,Yes,Roadways,No,Working Class,No,655.21
+0.92,6.0,Marble,178.245,19.92,No,No,Yes,Roadways,No,Working Class,No,655.21
 0.74,12.0,Clay,3.12,19.08,No,No,No,Airways,Yes,Working Class,No,314.72
 0.49,35.0,Wood,5.57,10.95,Yes,No,Yes,Waterways,No,Working Class,No,249.61
 0.84,13.0,Wood,5.65,21.88,No,No,Yes,Roadways,No,Working Class,No,514.73
-0.13,49.0,Brass,,38.9,No,No,Yes,Roadways,No,Working Class,No,
+0.13,49.0,Brass,178.245,38.9,No,No,Yes,Roadways,No,Working Class,No,2473.645
 0.3,10.0,Clay,4.7,13.31,Yes,No,Yes,Waterways,Yes,Working Class,No,162.87
 0.0,24.0,Wood,5.96,19.9,Yes,No,No,Waterways,No,Working Class,No,133.12
-0.46,37.0,Marble,,40.09,No,No,No,,Yes,Working Class,No,
+0.46,37.0,Marble,178.245,40.09,No,No,No,,Yes,Working Class,No,2473.645
 0.15,7.0,Marble,6.89,23.86,No,No,Yes,Waterways,No,Working Class,No,242.37
-0.95,20.0,Marble,,72.66,No,No,No,Roadways,No,Working Class,Yes,
+0.95,20.0,Marble,178.245,72.66,No,No,No,Roadways,No,Working Class,Yes,2473.645
 0.44,8.0,Brass,4.42,10.15,No,No,No,,No,Working Class,,151.38
-0.49,31.0,Stone,,69.34,No,No,Yes,Roadways,No,Wealthy,No,
+0.49,31.0,Stone,178.245,69.34,No,No,Yes,Roadways,No,Wealthy,No,2473.645
 0.31,42.0,Wood,3.08,15.08,No,Yes,Yes,Airways,No,Working Class,Yes,250.63
 ,23.0,Aluminium,6.05,13.08,No,No,No,Airways,No,Working Class,,590.37
 ,8.0,Stone,3.23,28.18,No,Yes,No,,No,Wealthy,No,297.01
-0.9,45.0,Marble,,83.26,No,No,Yes,Waterways,Yes,Working Class,,
+0.9,45.0,Marble,178.245,83.26,No,No,Yes,Waterways,Yes,Working Class,,2473.645
 0.27,29.0,Clay,7.01,21.92,No,No,No,Roadways,Yes,Working Class,No,210.36
 0.37,18.0,Clay,5.72,14.87,No,Yes,No,Airways,Yes,Wealthy,Yes,265.86
 ,14.0,Bronze,6.63,24.51,No,Yes,Yes,,No,Wealthy,No,384.33
@@ -744,8 +744,8 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.26,26.0,,36.99,94.48,Yes,Yes,Yes,,No,Wealthy,,1355.9
 0.16,35.0,Clay,5.25,45.1,No,No,No,Roadways,Yes,Working Class,No,316.85
 0.22,21.0,Clay,6.73,14.78,No,No,No,Waterways,Yes,Working Class,No,171.72
-0.78,36.0,Stone,,35.8,Yes,No,Yes,Waterways,No,Working Class,No,
-0.28,45.0,Stone,,73.98,No,No,No,,No,Working Class,No,
+0.78,36.0,Stone,178.245,35.8,Yes,No,Yes,Waterways,No,Working Class,No,2473.645
+0.28,45.0,Stone,178.245,73.98,No,No,No,,No,Working Class,No,2473.645
 0.36,23.0,,6.09,24.03,No,No,No,,No,Working Class,Yes,252.25
 0.59,22.0,,62.69,40.19,No,Yes,No,,No,Working Class,Yes,1649.38
 0.85,27.0,Clay,10.52,23.78,No,No,Yes,Roadways,Yes,Working Class,No,890.64
@@ -754,26 +754,26 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.38,19.0,,4.55,17.86,No,Yes,No,,No,Working Class,No,219.38
 0.5,18.0,Brass,42.62,29.65,Yes,No,No,Airways,No,Working Class,No,-520.35
 0.37,20.0,Bronze,15.94,62.96,No,No,Yes,,No,Working Class,No,612.98
-0.82,34.0,Brass,,37.2,Yes,No,No,Waterways,No,Wealthy,Yes,
+0.82,34.0,Brass,178.245,37.2,Yes,No,No,Waterways,No,Wealthy,Yes,2473.645
 0.72,11.0,Aluminium,5.07,15.97,No,Yes,No,,No,Working Class,No,-290.65
-0.37,26.0,Marble,,92.59,Yes,No,Yes,Waterways,No,Working Class,No,
+0.37,26.0,Marble,178.245,92.59,Yes,No,Yes,Waterways,No,Working Class,No,2473.645
 0.17,14.0,Wood,6.48,13.91,Yes,No,Yes,Waterways,No,Wealthy,No,150.76
 0.27,7.0,Bronze,4.41,24.37,Yes,Yes,Yes,Airways,No,Wealthy,Yes,267.52
 0.28,18.0,,20.26,30.71,No,Yes,No,,No,Wealthy,No,390.69
 ,5.0,,6.8,15.49,Yes,No,No,Airways,No,Wealthy,Yes,146.39
 ,36.0,Brass,21.52,39.19,No,Yes,No,Roadways,No,Wealthy,No,567.12
 0.01,20.0,Bronze,4.62,17.13,No,Yes,Yes,Airways,No,Working Class,,181.71
-0.52,37.0,Clay,70.56,82.43,Yes,Yes,Yes,Airways,Yes,Working Class,No,
+0.52,37.0,Clay,70.56,82.43,Yes,Yes,Yes,Airways,Yes,Working Class,No,2473.645
 0.57,18.0,Brass,27.47,32.32,No,No,No,Waterways,No,Working Class,,477.58
 0.22,6.0,Wood,5.49,11.32,No,No,No,Roadways,No,Working Class,No,96.59
 0.41,32.0,Wood,5.52,11.18,No,Yes,No,Roadways,No,Working Class,Yes,182.18
 0.12,16.0,Clay,3.44,13.16,Yes,No,No,Waterways,Yes,Working Class,No,124.68
-0.24,43.0,,,25.23,Yes,No,No,,No,Working Class,Yes,
-0.3,30.0,Marble,,38.64,No,Yes,Yes,Airways,No,Working Class,No,
+0.24,43.0,,178.245,25.23,Yes,No,No,,No,Working Class,Yes,2473.645
+0.3,30.0,Marble,178.245,38.64,No,Yes,Yes,Airways,No,Working Class,No,-1197.075
 0.46,30.0,Clay,3.04,18.65,No,No,Yes,Roadways,Yes,Working Class,No,310.57
 0.35,26.0,Wood,4.76,16.34,No,Yes,Yes,Airways,No,Wealthy,No,224.43
 0.46,27.0,Aluminium,6.0,10.25,No,No,Yes,Roadways,No,Working Class,No,225.46
-0.62,22.0,Stone,,42.11,No,No,Yes,Roadways,No,Working Class,No,
+0.62,22.0,Stone,178.245,42.11,No,No,Yes,Roadways,No,Working Class,No,2473.645
 0.5,9.0,Marble,3.87,18.67,No,No,No,Waterways,No,Wealthy,No,255.86
 ,21.0,Bronze,3.29,39.3,No,No,No,Roadways,No,Working Class,No,329.83
 0.04,28.0,Wood,4.86,19.49,No,Yes,No,Airways,No,Wealthy,,144.08
@@ -785,21 +785,21 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.72,24.0,Wood,4.18,21.71,No,Yes,Yes,Airways,No,Working Class,No,508.46
 0.8,4.0,,6.33,10.67,Yes,No,No,Waterways,No,Working Class,No,279.29
 0.47,49.0,Aluminium,3.83,57.41,Yes,No,Yes,Waterways,No,Working Class,No,849.82
-0.78,30.0,Stone,,81.4,No,Yes,No,Roadways,No,Wealthy,,
-0.71,21.0,,,67.78,Yes,No,Yes,,No,Working Class,No,
+0.78,30.0,Stone,178.245,81.4,No,Yes,No,Roadways,No,Wealthy,,2473.645
+0.71,21.0,,178.245,67.78,Yes,No,Yes,,No,Working Class,No,2473.645
 ,23.0,Wood,6.9,14.24,No,Yes,No,Airways,No,Working Class,No,105.66
-0.57,24.0,Marble,,47.2,No,Yes,No,Roadways,No,Working Class,No,
-0.18,37.0,Marble,,32.41,No,Yes,Yes,Airways,Yes,Wealthy,No,
+0.57,24.0,Marble,178.245,47.2,No,Yes,No,Roadways,No,Working Class,No,2473.645
+0.18,37.0,Marble,178.245,32.41,No,Yes,Yes,Airways,Yes,Wealthy,No,2473.645
 0.9,3.0,Stone,5.23,11.44,No,No,Yes,Airways,No,Working Class,No,361.33
 0.69,18.0,Clay,9.8,22.24,No,Yes,Yes,Roadways,Yes,Wealthy,No,1193.7
-,21.0,Stone,,57.13,Yes,No,No,Waterways,No,Wealthy,No,
+,21.0,Stone,178.245,57.13,Yes,No,No,Waterways,No,Wealthy,No,2473.645
 0.02,34.0,,3.36,20.12,No,No,Yes,Waterways,No,Working Class,No,141.19
 ,,Wood,6.38,24.94,No,No,No,,No,Working Class,No,718.59
 0.13,38.0,Aluminium,7.22,10.39,No,No,No,Roadways,No,Working Class,Yes,132.34
-0.47,22.0,Brass,111.06,92.24,No,Yes,No,Airways,No,Working Class,No,
+0.47,22.0,Brass,111.06,92.24,No,Yes,No,Airways,No,Working Class,No,-1197.075
 0.48,,Clay,17.92,99.19,No,No,No,Roadways,Yes,Working Class,No,1810.51
 0.44,18.0,Aluminium,6.27,23.23,No,No,Yes,Airways,No,Working Class,No,315.57
-0.63,31.0,Marble,,38.56,No,Yes,No,Airways,No,Wealthy,No,
+0.63,31.0,Marble,178.245,38.56,No,Yes,No,Airways,No,Wealthy,No,2473.645
 0.75,22.0,Wood,5.5,24.12,No,No,Yes,,No,Working Class,Yes,573.75
 0.33,39.0,Clay,30.07,69.27,Yes,Yes,Yes,Airways,Yes,Wealthy,,1301.78
 0.75,27.0,Aluminium,9.48,10.88,No,No,Yes,Waterways,No,Working Class,No,1290.56
@@ -813,17 +813,17 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.6,14.0,Bronze,13.75,18.16,Yes,No,No,Waterways,No,Working Class,No,267.02
 0.5,15.0,Brass,6.63,10.62,No,Yes,Yes,Airways,No,Working Class,No,299.77
 0.39,25.0,Brass,40.28,34.98,Yes,No,No,Waterways,No,Working Class,Yes,511.46
-0.6,34.0,Marble,,83.9,Yes,Yes,No,,No,Working Class,No,
-0.74,33.0,Stone,,30.75,No,No,No,Roadways,No,Working Class,Yes,
+0.6,34.0,Marble,178.245,83.9,Yes,Yes,No,,No,Working Class,No,2473.645
+0.74,33.0,Stone,178.245,30.75,No,No,No,Roadways,No,Working Class,Yes,2473.645
 0.9,9.0,Wood,6.44,14.69,No,Yes,No,Roadways,No,Wealthy,No,482.42
 0.81,27.0,,43.8,51.92,No,Yes,No,Airways,No,Working Class,No,2068.03
-,36.0,Stone,,32.48,No,Yes,No,Roadways,No,Working Class,Yes,
+,36.0,Stone,178.245,32.48,No,Yes,No,Roadways,No,Working Class,Yes,2473.645
 0.85,,Bronze,146.86,29.69,No,No,No,Roadways,No,Working Class,,1471.98
 0.48,6.0,Brass,4.71,18.62,No,No,Yes,Roadways,No,Working Class,,228.45
-0.31,,,21.93,30.32,Yes,No,Yes,,No,Working Class,No,510.92
-,,Bronze,,62.32,No,No,No,Waterways,No,Working Class,Yes,
+0.31,54.5,,21.93,30.32,Yes,No,Yes,,No,Working Class,No,510.92
+,54.5,Bronze,178.245,62.32,No,No,No,Waterways,No,Working Class,Yes,2473.645
 0.27,29.0,Aluminium,6.74,20.27,Yes,No,No,Waterways,No,Working Class,,188.9
-0.28,23.0,Stone,,93.4,Yes,No,No,Airways,No,Working Class,Yes,
+0.28,23.0,Stone,178.245,93.4,Yes,No,No,Airways,No,Working Class,Yes,-1197.075
 0.73,19.0,Wood,6.16,11.01,No,Yes,No,Airways,No,Wealthy,No,355.09
 0.69,28.0,Bronze,47.87,57.88,No,No,No,Airways,No,Working Class,No,1239.52
 0.64,26.0,Aluminium,3.78,20.32,No,Yes,No,Roadways,No,Wealthy,No,452.74
@@ -833,17 +833,17 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.32,28.0,Clay,6.44,74.38,No,No,No,Roadways,Yes,Working Class,Yes,665.35
 0.81,10.0,Brass,6.46,12.25,No,Yes,Yes,Roadways,No,Wealthy,Yes,650.06
 0.5,26.0,Aluminium,6.83,24.87,Yes,No,No,Waterways,No,Working Class,No,349.03
-0.66,40.0,Clay,73.63,94.06,No,No,No,Airways,Yes,Working Class,No,
+0.66,40.0,Clay,73.63,94.06,No,No,No,Airways,Yes,Working Class,No,2473.645
 0.22,10.0,Stone,35.25,44.04,Yes,No,No,Airways,No,Working Class,No,432.85
 0.96,14.0,Bronze,10.89,23.44,Yes,Yes,Yes,Airways,No,Working Class,No,724.74
 0.34,13.0,Brass,11.47,63.78,No,Yes,No,Airways,No,Wealthy,No,513.13
 0.71,5.0,Marble,5.74,13.81,Yes,Yes,No,Airways,No,Wealthy,No,346.76
-0.79,,,,28.17,No,No,Yes,Waterways,No,Wealthy,Yes,
+0.79,,,178.245,28.17,No,No,Yes,Waterways,No,Wealthy,Yes,2473.645
 0.19,37.0,,10.46,21.54,Yes,No,No,Waterways,Yes,Working Class,No,197.67
 0.5,27.0,Brass,72.2,58.36,No,Yes,Yes,Airways,No,Working Class,,1582.44
 0.23,17.0,,5.52,20.91,Yes,Yes,No,Airways,No,Working Class,No,-173.05
-0.36,,Marble,,52.11,No,No,No,Roadways,No,Working Class,No,
-0.88,16.0,Marble,79.12,51.91,Yes,No,Yes,Waterways,No,Wealthy,No,
+0.36,,Marble,178.245,52.11,No,No,No,Roadways,No,Working Class,No,2473.645
+0.88,16.0,Marble,79.12,51.91,Yes,No,Yes,Waterways,No,Wealthy,No,2473.645
 0.11,8.0,Bronze,6.19,15.25,No,Yes,Yes,Roadways,No,Wealthy,,168.1
 0.88,22.0,Wood,5.04,22.68,Yes,No,No,Waterways,No,Working Class,No,665.8
 0.78,4.0,Wood,6.42,24.68,Yes,Yes,Yes,Airways,No,Working Class,No,391.73
@@ -860,7 +860,7 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.71,16.0,Clay,3.44,23.83,No,No,No,Roadways,Yes,Working Class,,385.66
 0.38,39.0,Bronze,40.92,91.04,No,No,Yes,Roadways,No,Working Class,No,1090.4
 0.39,27.0,Wood,3.8,21.36,No,Yes,Yes,Roadways,No,Working Class,Yes,308.14
-,37.0,Bronze,92.09,51.6,No,No,No,Roadways,No,Working Class,Yes,
+,37.0,Bronze,92.09,51.6,No,No,No,Roadways,No,Working Class,Yes,2473.645
 0.7,7.0,Bronze,4.43,11.64,No,No,No,Roadways,No,Working Class,No,218.82
 0.61,14.0,Clay,4.8,12.15,No,Yes,No,,Yes,Working Class,No,222.18
 0.82,3.0,Marble,3.55,24.2,No,No,Yes,Roadways,No,Working Class,No,289.52
@@ -870,39 +870,39 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 ,18.0,,6.06,23.75,Yes,No,No,Waterways,No,Working Class,No,388.44
 ,19.0,Bronze,24.76,80.3,Yes,No,No,,No,Working Class,No,766.33
 0.05,23.0,Wood,6.26,18.06,No,No,No,,No,Working Class,No,-120.5
-0.1,47.0,Stone,,84.54,No,Yes,Yes,Airways,No,Working Class,No,
-0.44,18.0,Stone,,85.02,No,No,No,,No,Working Class,No,
+0.1,47.0,Stone,178.245,84.54,No,Yes,Yes,Airways,No,Working Class,No,-1197.075
+0.44,18.0,Stone,178.245,85.02,No,No,No,,No,Working Class,No,2473.645
 ,23.0,Bronze,27.19,69.67,No,No,No,,No,Working Class,,-499.71
 ,22.0,,5.77,10.42,Yes,No,Yes,Waterways,Yes,Working Class,No,-177.08
 0.65,9.0,Bronze,5.65,24.31,Yes,No,No,Waterways,No,Wealthy,No,335.91
-0.56,40.0,Stone,,90.61,No,No,No,Roadways,No,Working Class,No,
-0.45,38.0,Marble,,81.89,No,No,Yes,,Yes,Working Class,No,
+0.56,40.0,Stone,178.245,90.61,No,No,No,Roadways,No,Working Class,No,2473.645
+0.45,38.0,Marble,178.245,81.89,No,No,Yes,,Yes,Working Class,No,2473.645
 0.47,26.0,Wood,6.47,14.2,No,No,No,Waterways,No,Working Class,No,211.25
 0.33,30.0,Aluminium,4.0,21.3,No,No,No,Roadways,No,Working Class,No,243.7
 0.14,30.0,,4.47,13.92,No,No,Yes,Roadways,Yes,Working Class,,183.34
-0.88,25.0,Brass,91.39,81.57,Yes,No,Yes,,No,Working Class,No,
+0.88,25.0,Brass,91.39,81.57,Yes,No,Yes,,No,Working Class,No,2473.645
 ,26.0,Wood,3.85,20.85,No,Yes,No,Airways,No,Working Class,No,329.4
 0.29,6.0,Clay,3.53,22.42,Yes,Yes,Yes,Airways,Yes,Wealthy,No,244.9
-,,Stone,,95.02,No,No,No,Roadways,No,Working Class,,
+,,Stone,178.245,95.02,No,No,No,Roadways,No,Working Class,,2473.645
 ,13.0,Marble,100.68,83.96,No,Yes,Yes,,No,Wealthy,,1955.79
 0.14,20.0,Bronze,4.49,21.49,Yes,Yes,No,Airways,No,Working Class,No,203.36
 0.17,17.0,Bronze,5.04,14.59,Yes,No,No,Roadways,No,Working Class,No,162.46
 0.06,29.0,Aluminium,3.8,14.98,Yes,No,No,Waterways,No,Working Class,No,130.67
-0.55,26.0,Stone,,48.16,No,No,No,Roadways,No,Working Class,No,1692.54
+0.55,26.0,Stone,178.245,48.16,No,No,No,Roadways,No,Working Class,No,1692.54
 0.65,31.0,Clay,16.82,20.05,No,Yes,No,Roadways,Yes,Working Class,Yes,530.06
-0.48,15.0,Stone,,78.35,Yes,No,Yes,Waterways,No,Working Class,Yes,
+0.48,15.0,Stone,178.245,78.35,Yes,No,Yes,Waterways,No,Working Class,Yes,2473.645
 0.11,12.0,Stone,47.19,37.93,No,Yes,No,Roadways,No,Wealthy,No,468.31
 0.41,16.0,,48.13,54.25,No,No,No,,No,Working Class,,-673.15
 0.33,29.0,Wood,6.99,24.12,No,Yes,No,Roadways,No,Wealthy,No,267.84
 0.01,23.0,Aluminium,3.62,12.71,No,No,Yes,Roadways,No,Working Class,No,123.32
-0.68,35.0,Bronze,49.11,76.83,Yes,Yes,Yes,Airways,No,Working Class,,
+0.68,35.0,Bronze,49.11,76.83,Yes,Yes,Yes,Airways,No,Working Class,,2473.645
 0.34,15.0,Wood,6.97,23.55,No,No,Yes,Waterways,No,Working Class,,232.38
 ,46.0,Wood,3.82,10.59,No,No,No,,No,Working Class,,160.08
-0.9,39.0,Bronze,66.06,94.8,No,No,No,Roadways,No,Wealthy,No,
+0.9,39.0,Bronze,66.06,94.8,No,No,No,Roadways,No,Wealthy,No,2473.645
 0.58,8.0,Aluminium,6.13,15.05,Yes,No,No,Airways,No,Working Class,No,240.88
 0.37,32.0,Brass,47.62,85.19,Yes,No,No,,No,Working Class,,899.64
 0.17,14.0,Brass,3.22,10.33,No,No,No,Roadways,No,Working Class,No,155.03
-,28.0,,,52.01,No,Yes,No,Roadways,No,Wealthy,,
+,28.0,,178.245,52.01,No,Yes,No,Roadways,No,Wealthy,,2473.645
 0.3,31.0,Aluminium,7.78,15.71,No,No,Yes,Roadways,No,Working Class,No,253.98
 0.29,19.0,Brass,19.13,15.14,No,No,No,Roadways,No,Working Class,Yes,202.15
 0.37,12.0,Stone,70.44,33.78,Yes,No,No,,No,Working Class,No,-788.8
@@ -910,33 +910,33 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.5,12.0,Wood,6.54,20.25,No,No,No,,No,Working Class,No,239.63
 0.21,23.0,Bronze,4.12,44.97,No,Yes,No,Roadways,No,Working Class,No,325.9
 0.46,12.0,Clay,6.25,11.41,Yes,Yes,Yes,Airways,Yes,Wealthy,Yes,302.4
-0.58,26.0,Marble,,25.57,No,No,No,Roadways,No,Working Class,No,1062.0
+0.58,26.0,Marble,178.245,25.57,No,No,No,Roadways,No,Working Class,No,1062.0
 0.15,31.0,Aluminium,4.26,21.17,No,No,Yes,Roadways,No,Working Class,No,208.13
 1.0,13.0,Wood,3.97,19.36,Yes,No,No,Airways,No,Working Class,No,479.27
 0.98,17.0,Aluminium,6.81,10.13,Yes,No,No,Waterways,No,Working Class,No,587.66
-0.82,26.0,,,25.6,No,No,No,Roadways,No,Working Class,No,
-0.5,39.0,Stone,,84.79,Yes,No,Yes,,No,Working Class,No,
+0.82,26.0,,178.245,25.6,No,No,No,Roadways,No,Working Class,No,2473.645
+0.5,39.0,Stone,178.245,84.79,Yes,No,Yes,,No,Working Class,No,2473.645
 0.41,14.0,Aluminium,4.45,22.44,No,No,Yes,Airways,No,Working Class,,223.32
 ,4.0,Aluminium,3.43,24.36,No,Yes,No,Airways,No,Wealthy,No,215.39
 0.06,30.0,Wood,3.06,23.36,No,No,No,Waterways,No,Working Class,Yes,138.91
 0.01,23.0,Marble,93.61,96.77,No,Yes,No,Roadways,No,Wealthy,No,677.24
 0.73,16.0,Clay,4.47,13.61,Yes,No,No,Waterways,Yes,Working Class,Yes,330.27
-0.25,34.0,Stone,,77.15,No,Yes,No,Roadways,No,Wealthy,No,
+0.25,34.0,Stone,178.245,77.15,No,Yes,No,Roadways,No,Wealthy,No,2473.645
 ,9.0,,6.44,14.02,No,No,Yes,Airways,No,Working Class,No,218.62
 0.39,9.0,Brass,3.59,18.63,Yes,Yes,Yes,Airways,No,Working Class,No,240.68
 0.4,8.0,Marble,22.32,15.52,Yes,No,No,,No,Working Class,,224.09
 0.56,29.0,Bronze,14.11,32.52,No,No,No,Roadways,No,Working Class,No,557.06
-0.6,21.0,Marble,,51.43,Yes,No,No,Airways,No,Working Class,No,
+0.6,21.0,Marble,178.245,51.43,Yes,No,No,Airways,No,Working Class,No,2473.645
 0.29,15.0,Bronze,6.18,24.85,Yes,No,Yes,Waterways,No,Working Class,No,245.0
 0.79,19.0,Brass,8.62,29.6,Yes,Yes,Yes,,No,Wealthy,No,1918.32
 0.18,17.0,Wood,5.2,23.43,No,No,No,Roadways,No,Working Class,No,151.46
 0.84,16.0,Bronze,14.85,14.5,No,Yes,Yes,Roadways,No,Working Class,Yes,496.28
 0.23,4.0,Stone,6.95,15.32,No,No,Yes,Airways,No,Working Class,No,201.52
-0.76,28.0,Marble,,69.57,No,No,No,Roadways,No,Working Class,No,
+0.76,28.0,Marble,178.245,69.57,No,No,No,Roadways,No,Working Class,No,2473.645
 0.56,27.0,Wood,3.66,23.99,No,No,No,Roadways,No,Working Class,Yes,353.45
-0.72,28.0,Stone,,27.93,Yes,Yes,No,Airways,No,Working Class,No,
+0.72,28.0,Stone,178.245,27.93,Yes,Yes,No,Airways,No,Working Class,No,2473.645
 0.42,13.0,Stone,86.83,99.95,No,No,No,Waterways,No,Working Class,No,1599.68
-0.72,44.0,Stone,,84.38,No,No,Yes,Roadways,No,Working Class,Yes,
+0.72,44.0,Stone,178.245,84.38,No,No,Yes,Roadways,No,Working Class,Yes,-1197.075
 0.52,27.0,Aluminium,5.16,19.51,Yes,No,No,Roadways,No,Working Class,No,353.87
 0.23,16.0,Clay,5.1,10.44,Yes,No,Yes,Airways,Yes,Wealthy,Yes,230.32
 0.57,10.0,Clay,3.57,21.14,No,No,Yes,Roadways,Yes,Working Class,No,256.55
@@ -947,24 +947,24 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.46,10.0,Stone,39.01,98.02,No,No,Yes,,No,Working Class,No,862.62
 0.56,24.0,Brass,19.67,92.29,Yes,No,No,Waterways,No,Working Class,,1226.54
 0.94,7.0,Aluminium,3.83,11.13,Yes,No,Yes,,No,Working Class,No,229.86
-0.56,41.0,Brass,,48.03,No,No,No,Waterways,No,Working Class,No,
+0.56,41.0,Brass,178.245,48.03,No,No,No,Waterways,No,Working Class,No,2473.645
 0.1,27.0,Brass,66.78,69.89,No,Yes,No,Airways,No,Wealthy,,969.75
 ,25.0,Brass,22.2,73.47,Yes,Yes,No,Airways,No,Wealthy,,650.31
-0.62,,Aluminium,83.06,73.74,No,No,No,Airways,No,Working Class,No,
+0.62,54.5,Aluminium,83.06,73.74,No,No,No,Airways,No,Working Class,No,2473.645
 ,7.0,Marble,6.92,18.02,No,No,No,,No,Working Class,No,319.08
 0.11,26.0,Aluminium,4.83,17.48,No,No,Yes,Roadways,No,Working Class,No,172.55
 0.33,3.0,Clay,5.99,20.42,No,Yes,Yes,Roadways,Yes,Working Class,No,146.17
 0.88,21.0,,5.16,14.54,No,No,No,Airways,Yes,Working Class,No,501.33
-0.1,30.0,Stone,,33.87,No,No,No,Roadways,No,Working Class,No,
+0.1,30.0,Stone,178.245,33.87,No,No,No,Roadways,No,Working Class,No,2473.645
 0.23,6.0,Brass,6.67,22.77,Yes,No,No,Airways,No,Working Class,No,206.32
 0.2,23.0,Wood,5.94,23.83,No,No,No,Airways,No,Working Class,,180.53
 0.7,6.0,Marble,5.39,14.36,No,No,Yes,Roadways,No,Working Class,No,293.17
-0.89,36.0,Stone,,92.66,No,No,No,Roadways,No,Working Class,No,
+0.89,36.0,Stone,178.245,92.66,No,No,No,Roadways,No,Working Class,No,2473.645
 0.19,31.0,Wood,3.44,24.65,No,No,No,Airways,No,Working Class,Yes,208.18
-0.73,14.0,Stone,,99.64,No,No,No,Roadways,No,Working Class,No,
+0.73,14.0,Stone,178.245,99.64,No,No,No,Roadways,No,Working Class,No,2473.645
 0.6,11.0,Aluminium,6.55,18.45,No,No,Yes,Roadways,No,Wealthy,No,344.7
-0.13,24.0,Stone,,61.98,Yes,No,No,,No,Wealthy,Yes,1768.51
-0.71,38.0,Brass,90.4,59.55,Yes,Yes,No,Airways,No,Wealthy,,
+0.13,24.0,Stone,178.245,61.98,Yes,No,No,,No,Wealthy,Yes,1768.51
+0.71,38.0,Brass,90.4,59.55,Yes,Yes,No,Airways,No,Wealthy,,2473.645
 0.46,16.0,Bronze,8.14,17.77,No,No,Yes,,No,Working Class,No,382.3
 0.33,31.0,Clay,6.06,21.77,No,Yes,No,,Yes,Wealthy,No,364.72
 ,19.0,Wood,3.22,24.53,No,No,No,Roadways,No,Wealthy,No,165.05
@@ -987,7 +987,7 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.88,12.0,Wood,5.89,10.93,Yes,No,No,Roadways,No,Working Class,,337.28
 0.58,14.0,Bronze,5.8,15.03,No,No,Yes,Roadways,No,Working Class,No,267.25
 0.55,3.0,,6.19,23.19,Yes,Yes,Yes,,No,Wealthy,No,-268.36
-0.26,26.0,Marble,,27.16,No,Yes,Yes,Airways,No,Working Class,No,
+0.26,26.0,Marble,178.245,27.16,No,Yes,Yes,Airways,No,Working Class,No,2473.645
 0.18,51.0,Aluminium,13.68,66.88,Yes,Yes,Yes,,No,Working Class,No,546.74
 0.47,6.0,Bronze,4.76,20.32,No,No,No,,No,Working Class,No,199.21
 0.58,3.0,Wood,5.19,11.15,No,No,Yes,,No,Working Class,,-153.33
@@ -999,8 +999,8 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.86,26.0,Wood,4.27,18.52,Yes,No,No,Airways,No,Working Class,No,710.84
 0.47,20.0,Bronze,4.21,14.39,No,No,No,Roadways,No,Working Class,No,211.12
 0.86,28.0,Aluminium,3.51,20.81,No,Yes,No,Airways,No,Working Class,Yes,738.43
-0.33,22.0,Marble,,80.04,No,Yes,Yes,,No,Working Class,No,
-,21.0,Marble,,71.75,No,No,No,Roadways,No,Wealthy,Yes,
+0.33,22.0,Marble,178.245,80.04,No,Yes,Yes,,No,Working Class,No,2473.645
+,21.0,Marble,178.245,71.75,No,No,No,Roadways,No,Wealthy,Yes,2473.645
 ,3.0,Marble,3.82,23.65,Yes,No,Yes,Waterways,No,Working Class,No,242.58
 0.09,13.0,Brass,5.07,11.16,No,No,No,,No,Wealthy,No,155.08
 0.46,7.0,Marble,4.45,12.19,No,No,Yes,Waterways,No,Working Class,No,-229.54
@@ -1017,35 +1017,35 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.16,28.0,Wood,4.3,24.87,No,No,Yes,Roadways,No,Working Class,No,187.84
 ,17.0,Clay,6.03,16.4,No,No,No,,Yes,Working Class,Yes,265.84
 0.36,15.0,Aluminium,3.39,15.96,No,No,Yes,Roadways,No,Working Class,No,179.28
-0.79,19.0,Stone,,88.32,Yes,No,No,,No,Working Class,,
-0.78,11.0,,,84.96,No,Yes,No,,No,Working Class,No,2119.68
+0.79,19.0,Stone,178.245,88.32,Yes,No,No,,No,Working Class,,2473.645
+0.78,11.0,,178.245,84.96,No,Yes,No,,No,Working Class,No,2119.68
 0.33,11.0,Wood,6.73,11.51,No,Yes,No,Airways,No,Working Class,,130.73
 0.2,18.0,Brass,22.53,53.22,No,No,No,Roadways,No,Working Class,No,367.75
 0.27,37.0,Bronze,55.97,27.13,No,No,No,Airways,No,Working Class,No,410.61
 ,,Aluminium,4.08,18.23,No,Yes,No,Roadways,No,Working Class,No,211.36
 0.14,15.0,Wood,4.36,23.15,No,No,No,Roadways,No,Working Class,No,158.28
 0.24,,Brass,3.62,14.81,No,No,No,,No,Working Class,No,158.73
-0.36,23.0,Stone,,84.02,No,Yes,Yes,Roadways,No,Wealthy,No,
+0.36,23.0,Stone,178.245,84.02,No,Yes,Yes,Roadways,No,Wealthy,No,2473.645
 0.92,27.0,Brass,28.6,67.34,No,No,No,Waterways,No,Working Class,Yes,2157.67
 0.18,15.0,Marble,46.61,54.29,Yes,Yes,Yes,Airways,No,Wealthy,Yes,-595.73
 0.13,12.0,Clay,6.23,18.67,No,No,Yes,,Yes,Working Class,Yes,170.39
 0.99,31.0,Aluminium,6.74,14.43,Yes,No,No,,No,Working Class,Yes,1169.38
 0.77,,Wood,3.28,11.15,Yes,No,Yes,,No,Working Class,,-267.38
-0.59,25.0,Stone,,82.52,Yes,No,No,Waterways,No,Working Class,No,
+0.59,25.0,Stone,178.245,82.52,Yes,No,No,Waterways,No,Working Class,No,2473.645
 0.19,15.0,Bronze,6.19,12.09,No,Yes,No,Roadways,No,Working Class,No,155.59
 0.89,,Aluminium,13.21,23.57,Yes,No,No,Waterways,No,Working Class,No,880.96
 0.54,12.0,Brass,16.93,85.49,No,No,No,Roadways,No,Working Class,Yes,825.5
 0.03,18.0,Bronze,5.98,23.09,No,No,Yes,Roadways,No,Working Class,Yes,202.02
-0.63,46.0,Marble,,98.96,No,Yes,No,Roadways,Yes,Working Class,No,
-0.57,29.0,Stone,,34.64,No,No,No,,No,Working Class,No,
-0.12,19.0,Stone,,95.47,No,No,Yes,Airways,No,Working Class,Yes,1238.38
+0.63,46.0,Marble,178.245,98.96,No,Yes,No,Roadways,Yes,Working Class,No,2473.645
+0.57,29.0,Stone,178.245,34.64,No,No,No,,No,Working Class,No,2473.645
+0.12,19.0,Stone,178.245,95.47,No,No,Yes,Airways,No,Working Class,Yes,1238.38
 0.46,10.0,Clay,6.86,20.17,No,No,Yes,Waterways,Yes,Working Class,No,269.33
 0.62,13.0,,3.53,13.54,No,No,No,,No,Working Class,No,219.7
 0.45,27.0,Brass,9.58,72.41,Yes,Yes,No,Airways,No,Working Class,Yes,1202.76
 0.27,14.0,Marble,111.95,80.12,Yes,No,Yes,Waterways,No,Working Class,Yes,765.4
-0.29,21.0,Stone,,42.43,No,No,No,Waterways,No,Working Class,No,694.76
-0.74,31.0,Brass,,53.06,No,No,Yes,Roadways,No,Working Class,Yes,2036.2
-0.95,26.0,Brass,124.17,79.29,No,No,No,Roadways,No,Working Class,No,
+0.29,21.0,Stone,178.245,42.43,No,No,No,Waterways,No,Working Class,No,694.76
+0.74,31.0,Brass,178.245,53.06,No,No,Yes,Roadways,No,Working Class,Yes,2036.2
+0.95,26.0,Brass,124.17,79.29,No,No,No,Roadways,No,Working Class,No,2473.645
 0.38,32.0,Clay,5.56,12.45,Yes,No,Yes,Waterways,Yes,Working Class,No,245.71
 0.65,21.0,Wood,4.02,23.76,Yes,No,No,Waterways,No,Working Class,No,389.95
 ,25.0,Clay,8.8,12.04,Yes,No,No,Waterways,Yes,Working Class,No,657.85
@@ -1054,29 +1054,29 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.56,35.0,Aluminium,4.27,23.99,No,No,No,Roadways,No,Working Class,,449.73
 ,53.0,,9.98,18.78,No,No,Yes,,No,Wealthy,Yes,344.47
 0.6,16.0,Brass,23.43,46.04,No,Yes,No,,No,Working Class,,733.23
-0.69,31.0,Marble,,35.05,Yes,No,Yes,Waterways,No,Working Class,No,
-0.66,26.0,Brass,,78.24,Yes,No,No,Waterways,No,Working Class,No,
+0.69,31.0,Marble,178.245,35.05,Yes,No,Yes,Waterways,No,Working Class,No,2473.645
+0.66,26.0,Brass,178.245,78.24,Yes,No,No,Waterways,No,Working Class,No,2473.645
 0.09,25.0,Clay,6.03,15.01,Yes,No,Yes,Waterways,Yes,Working Class,No,165.75
 0.21,44.0,Brass,78.65,68.64,No,No,No,Roadways,No,Working Class,No,757.68
 0.6,13.0,Wood,6.67,19.7,No,Yes,No,Airways,No,Working Class,No,-278.06
 0.48,27.0,Bronze,6.27,82.78,Yes,Yes,Yes,Airways,No,Working Class,No,1068.14
 0.34,20.0,Wood,6.15,11.03,No,Yes,Yes,Roadways,No,Wealthy,No,206.23
-0.61,37.0,,136.35,55.3,Yes,No,No,,No,Working Class,,
-0.46,26.0,Stone,,93.18,No,No,No,Waterways,No,Working Class,No,
+0.61,37.0,,136.35,55.3,Yes,No,No,,No,Working Class,,-1197.075
+0.46,26.0,Stone,178.245,93.18,No,No,No,Waterways,No,Working Class,No,-1197.075
 0.1,19.0,,6.27,10.87,Yes,Yes,No,,No,Wealthy,No,129.93
 0.66,20.0,Bronze,30.26,52.94,Yes,No,No,Waterways,No,Working Class,Yes,918.57
-0.36,22.0,Marble,,66.5,No,No,No,Roadways,No,Working Class,Yes,
+0.36,22.0,Marble,178.245,66.5,No,No,No,Roadways,No,Working Class,Yes,2473.645
 0.35,30.0,Clay,6.18,13.67,Yes,No,No,Waterways,Yes,Working Class,No,212.69
 0.63,27.0,,3.44,15.38,No,No,Yes,Roadways,No,Working Class,No,343.98
 0.45,24.0,Bronze,10.85,12.57,Yes,No,No,Airways,No,Working Class,,230.95
 0.17,22.0,Wood,6.77,13.85,No,No,No,Roadways,No,Working Class,No,116.72
-0.69,19.0,Stone,,35.14,Yes,Yes,No,,No,Wealthy,Yes,
-0.87,27.0,Marble,,28.55,Yes,No,Yes,Waterways,No,Working Class,,
+0.69,19.0,Stone,178.245,35.14,Yes,Yes,No,,No,Wealthy,Yes,2473.645
+0.87,27.0,Marble,178.245,28.55,Yes,No,Yes,Waterways,No,Working Class,,2473.645
 0.07,38.0,Clay,7.08,53.85,No,No,Yes,Airways,Yes,Working Class,No,-475.45
 0.72,17.0,Bronze,53.63,53.82,No,Yes,Yes,Airways,No,Working Class,No,1739.88
 0.29,25.0,Brass,72.05,66.69,No,No,Yes,Waterways,No,Wealthy,Yes,1031.42
 0.41,18.0,Wood,4.53,19.4,Yes,No,Yes,Waterways,No,Working Class,No,239.27
-0.8,20.0,Brass,63.96,85.37,Yes,No,Yes,,No,Working Class,Yes,
+0.8,20.0,Brass,63.96,85.37,Yes,No,Yes,,No,Working Class,Yes,2473.645
 ,9.0,,5.35,20.95,Yes,Yes,No,Airways,No,Working Class,No,251.03
 ,5.0,,4.59,22.93,No,No,No,Roadways,No,Working Class,No,169.36
 0.05,9.0,Brass,5.62,13.14,No,No,No,Roadways,No,Working Class,No,129.26
@@ -1092,8 +1092,8 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.0,38.0,Aluminium,5.31,20.45,Yes,Yes,No,,No,Wealthy,,198.9
 0.95,39.0,Aluminium,7.38,14.89,Yes,No,Yes,Waterways,No,Working Class,No,1544.2
 0.89,16.0,Marble,122.63,37.49,No,No,Yes,Roadways,No,Wealthy,No,1413.78
-0.7,49.0,Marble,,65.55,No,No,No,Roadways,Yes,Working Class,No,
-,31.0,Stone,,90.06,No,Yes,No,Roadways,No,Wealthy,No,
+0.7,49.0,Marble,178.245,65.55,No,No,No,Roadways,Yes,Working Class,No,2473.645
+,31.0,Stone,178.245,90.06,No,Yes,No,Roadways,No,Wealthy,No,2473.645
 ,11.0,Clay,4.14,11.67,Yes,No,Yes,Waterways,Yes,Working Class,No,132.99
 ,,Brass,6.21,15.99,No,Yes,No,,No,Wealthy,No,423.12
 ,,,3.12,21.63,No,No,No,Roadways,No,Working Class,No,400.23
@@ -1103,34 +1103,34 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.82,33.0,Bronze,171.41,40.28,Yes,No,No,Waterways,No,Wealthy,No,1769.24
 0.38,16.0,Marble,126.35,81.79,No,Yes,No,,No,Working Class,No,808.52
 0.55,12.0,Marble,17.42,53.98,No,Yes,No,Roadways,No,Wealthy,Yes,698.24
-,17.0,Stone,,48.29,Yes,No,Yes,Waterways,No,Wealthy,No,
+,17.0,Stone,178.245,48.29,Yes,No,Yes,Waterways,No,Wealthy,No,2473.645
 0.65,4.0,Bronze,4.63,13.77,No,Yes,Yes,Roadways,No,Wealthy,Yes,-231.13
 ,12.0,Clay,6.27,18.44,No,Yes,No,Airways,Yes,Wealthy,Yes,224.06
 ,39.0,Bronze,169.06,98.77,No,Yes,No,Airways,No,Working Class,No,2246.72
 0.22,8.0,Wood,6.08,19.63,Yes,No,No,Waterways,No,Working Class,Yes,158.37
 0.62,23.0,Aluminium,3.91,15.14,No,Yes,No,Roadways,No,Wealthy,Yes,336.71
 0.19,32.0,Clay,6.74,52.42,Yes,No,Yes,,Yes,Working Class,No,521.21
-,28.0,Brass,127.3,57.12,No,No,Yes,,No,Working Class,No,
-0.48,,Bronze,85.01,73.44,No,No,No,Roadways,No,Wealthy,Yes,
+,28.0,Brass,127.3,57.12,No,No,Yes,,No,Working Class,No,2473.645
+0.48,,Bronze,85.01,73.44,No,No,No,Roadways,No,Wealthy,Yes,-1197.075
 ,25.0,,3.13,15.48,No,Yes,Yes,Airways,No,Wealthy,,-556.87
 ,12.0,Wood,3.8,19.44,Yes,No,Yes,,No,Working Class,No,255.02
 0.01,33.0,Aluminium,3.47,22.73,No,Yes,Yes,Airways,No,Working Class,No,166.71
 0.38,12.0,Stone,160.25,98.81,No,Yes,Yes,Airways,No,Working Class,No,1183.37
-0.75,41.0,Brass,,94.87,Yes,No,No,Waterways,No,Working Class,Yes,
-,20.0,Marble,,96.57,No,Yes,No,Airways,No,Wealthy,No,938.19
+0.75,41.0,Brass,178.245,94.87,Yes,No,No,Waterways,No,Working Class,Yes,2473.645
+,20.0,Marble,178.245,96.57,No,Yes,No,Airways,No,Wealthy,No,938.19
 ,30.0,Bronze,38.22,33.93,Yes,No,No,,No,Working Class,No,-579.35
 0.77,14.0,Clay,4.7,15.52,No,No,No,Waterways,Yes,Working Class,Yes,-315.2
 0.47,30.0,Bronze,25.45,73.38,No,No,Yes,Waterways,No,Working Class,No,1093.12
 0.51,7.0,Aluminium,6.87,11.5,No,Yes,No,Airways,No,Wealthy,Yes,203.92
 0.52,30.0,Aluminium,3.83,21.84,No,No,No,Roadways,No,Working Class,No,330.88
 0.94,13.0,Bronze,13.06,17.94,No,No,No,Roadways,No,Working Class,No,435.29
-0.92,,Marble,,56.67,Yes,No,Yes,Airways,Yes,Working Class,Yes,
-,34.0,Marble,,37.76,No,Yes,Yes,,No,Working Class,No,
+0.92,54.5,Marble,178.245,56.67,Yes,No,Yes,Airways,Yes,Working Class,Yes,2473.645
+,34.0,Marble,178.245,37.76,No,Yes,Yes,,No,Working Class,No,2473.645
 0.44,21.0,,3.62,17.13,No,No,No,Roadways,No,Working Class,No,179.5
 0.27,12.0,Marble,44.81,41.84,No,Yes,No,,No,Working Class,Yes,492.9
 0.6,18.0,Clay,6.59,21.35,No,No,No,Roadways,Yes,Wealthy,No,417.43
 0.6,35.0,Clay,10.7,59.69,No,No,No,Waterways,Yes,Working Class,Yes,1174.64
-0.1,26.0,Stone,,75.79,No,No,Yes,Roadways,No,Wealthy,,1433.94
+0.1,26.0,Stone,178.245,75.79,No,No,Yes,Roadways,No,Wealthy,,1433.94
 0.4,,Wood,6.59,10.5,Yes,No,No,Waterways,No,Wealthy,No,144.41
 0.07,25.0,Marble,89.8,32.01,Yes,Yes,No,Airways,No,Working Class,,808.8
 0.28,17.0,Bronze,22.02,23.11,No,Yes,No,Airways,No,Working Class,Yes,281.4
@@ -1139,11 +1139,11 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.65,22.0,Brass,35.45,42.61,No,No,No,,No,Working Class,No,1187.38
 0.73,18.0,Bronze,23.61,26.55,Yes,No,No,Waterways,No,Working Class,,500.49
 0.66,35.0,Wood,4.26,20.42,No,Yes,Yes,Roadways,No,Wealthy,No,503.88
-0.8,,,19.17,49.96,No,No,No,,No,Working Class,No,2230.43
+0.8,54.5,,19.17,49.96,No,No,No,,No,Working Class,No,2230.43
 ,19.0,Wood,4.94,13.41,No,Yes,No,,No,Working Class,Yes,185.33
-0.74,31.0,,,58.61,No,No,No,,No,Wealthy,No,
-,28.0,Stone,,77.68,No,Yes,No,Airways,No,Wealthy,No,
-0.66,33.0,Stone,,34.93,No,No,Yes,Roadways,No,Working Class,No,
+0.74,31.0,,178.245,58.61,No,No,No,,No,Wealthy,No,2473.645
+,28.0,Stone,178.245,77.68,No,Yes,No,Airways,No,Wealthy,No,2473.645
+0.66,33.0,Stone,178.245,34.93,No,No,Yes,Roadways,No,Working Class,No,-1197.075
 0.15,5.0,Aluminium,4.1,10.23,No,No,No,Roadways,No,Working Class,No,102.37
 ,14.0,Wood,6.61,24.0,No,No,Yes,Waterways,No,Working Class,No,148.24
 0.81,25.0,Wood,3.2,20.51,No,No,Yes,,No,Working Class,No,-567.81
@@ -1152,16 +1152,16 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.01,12.0,,6.65,21.85,Yes,No,Yes,,No,Working Class,No,-136.0
 ,7.0,Aluminium,5.6,12.86,No,No,Yes,Roadways,No,Working Class,No,145.29
 0.2,10.0,Stone,38.26,61.46,No,No,No,Airways,No,Working Class,No,479.74
-0.8,12.0,Stone,,78.05,No,No,No,,No,Wealthy,No,
-0.63,22.0,Stone,,27.85,Yes,Yes,No,Airways,No,Wealthy,No,
-0.41,21.0,Stone,,46.58,No,No,Yes,,No,Working Class,Yes,
-0.13,16.0,Stone,,34.06,No,Yes,No,Roadways,No,Wealthy,,1745.05
-0.15,17.0,,,62.32,Yes,Yes,Yes,Airways,No,Wealthy,,
+0.8,12.0,Stone,178.245,78.05,No,No,No,,No,Wealthy,No,2473.645
+0.63,22.0,Stone,178.245,27.85,Yes,Yes,No,Airways,No,Wealthy,No,2473.645
+0.41,21.0,Stone,178.245,46.58,No,No,Yes,,No,Working Class,Yes,2473.645
+0.13,16.0,Stone,178.245,34.06,No,Yes,No,Roadways,No,Wealthy,,1745.05
+0.15,17.0,,178.245,62.32,Yes,Yes,Yes,Airways,No,Wealthy,,2473.645
 0.34,23.0,Wood,4.95,24.48,No,No,No,Roadways,No,Working Class,No,-211.1
-0.85,30.0,Marble,,30.66,Yes,No,No,,No,Wealthy,No,
+0.85,30.0,Marble,178.245,30.66,Yes,No,No,,No,Wealthy,No,2473.645
 0.27,33.0,Bronze,11.65,44.63,No,Yes,No,,No,Wealthy,No,415.92
 ,17.0,Bronze,7.71,21.12,No,No,Yes,Roadways,No,Working Class,No,386.14
-0.89,22.0,Marble,,85.51,No,No,No,Airways,No,Working Class,No,
+0.89,22.0,Marble,178.245,85.51,No,No,No,Airways,No,Working Class,No,2473.645
 0.41,10.0,Wood,4.31,17.43,Yes,No,No,Waterways,No,Working Class,Yes,186.95
 0.02,27.0,Wood,5.47,24.98,No,No,No,,No,Working Class,No,125.18
 0.48,10.0,Bronze,6.78,14.43,No,Yes,Yes,Airways,No,Wealthy,No,257.52
@@ -1170,22 +1170,22 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.7,31.0,Aluminium,8.48,12.46,No,Yes,Yes,Airways,No,Working Class,No,1065.58
 0.22,34.0,Wood,5.66,14.83,No,No,No,,No,Working Class,,143.29
 0.01,31.0,,4.03,18.18,No,No,No,Waterways,No,Wealthy,,143.33
-0.89,27.0,Bronze,119.95,62.6,Yes,No,Yes,Airways,No,Working Class,No,
+0.89,27.0,Bronze,119.95,62.6,Yes,No,Yes,Airways,No,Working Class,No,2473.645
 0.08,15.0,,8.24,10.87,Yes,No,Yes,Waterways,No,Working Class,Yes,175.72
-0.54,29.0,Marble,,62.07,No,No,Yes,Roadways,No,Working Class,Yes,
+0.54,29.0,Marble,178.245,62.07,No,No,Yes,Roadways,No,Working Class,Yes,2473.645
 0.16,9.0,Bronze,6.14,18.53,Yes,No,Yes,Waterways,No,Working Class,No,178.39
-0.46,,Bronze,,96.55,No,Yes,No,Airways,No,Working Class,No,
+0.46,,Bronze,178.245,96.55,No,Yes,No,Airways,No,Working Class,No,2473.645
 0.01,6.0,Wood,6.1,24.04,Yes,Yes,No,Airways,No,Wealthy,No,165.55
 0.76,12.0,Aluminium,6.95,11.71,No,No,No,Roadways,No,Working Class,,328.94
 0.28,34.0,Bronze,16.79,37.29,Yes,Yes,No,Airways,No,Wealthy,No,486.04
 0.92,12.0,Wood,5.44,23.41,No,No,No,Roadways,No,Wealthy,No,625.62
-0.49,,Wood,5.37,15.02,Yes,No,No,Waterways,No,Working Class,No,251.92
+0.49,54.5,Wood,5.37,15.02,Yes,No,No,Waterways,No,Working Class,No,251.92
 0.48,15.0,Wood,3.11,20.16,No,No,Yes,Waterways,No,Working Class,No,241.47
-,35.0,Marble,,74.31,Yes,No,Yes,Waterways,No,Working Class,No,
+,35.0,Marble,178.245,74.31,Yes,No,Yes,Waterways,No,Working Class,No,2473.645
 0.33,16.0,Bronze,8.48,14.78,No,No,No,,No,Working Class,No,-240.42
 0.85,,Aluminium,3.48,13.92,Yes,Yes,No,,No,Wealthy,Yes,279.36
 ,17.0,Brass,6.52,43.05,No,No,Yes,,No,Working Class,No,1204.46
-0.74,34.0,Brass,,59.8,Yes,No,No,Waterways,No,Working Class,No,
+0.74,34.0,Brass,178.245,59.8,Yes,No,No,Waterways,No,Working Class,No,2473.645
 0.34,8.0,,8.92,97.79,Yes,No,No,Waterways,No,Working Class,No,-648.1
 0.05,7.0,Stone,4.42,18.7,No,No,No,Airways,No,Working Class,No,-202.47
 0.9,12.0,Aluminium,6.89,16.72,No,No,No,Roadways,No,Working Class,,529.23
@@ -1205,11 +1205,11 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.38,5.0,Wood,4.38,17.55,Yes,Yes,No,,No,Wealthy,No,174.18
 0.01,19.0,Brass,23.83,93.67,No,Yes,Yes,Airways,No,Working Class,No,488.81
 0.02,16.0,Brass,5.34,84.75,Yes,Yes,Yes,Airways,No,Working Class,,451.11
-0.63,17.0,Marble,,72.29,No,No,No,Waterways,No,Wealthy,No,
+0.63,17.0,Marble,178.245,72.29,No,No,No,Waterways,No,Wealthy,No,2473.645
 0.92,16.0,,5.8,16.02,No,Yes,Yes,,No,Working Class,No,755.6
 0.14,24.0,Aluminium,4.32,16.04,Yes,Yes,Yes,Airways,No,Working Class,No,167.62
 0.64,19.0,,21.44,11.97,Yes,No,No,Waterways,No,Working Class,No,254.56
-,12.0,,,61.72,No,No,No,Roadways,No,Wealthy,,1565.75
+,12.0,,178.245,61.72,No,No,No,Roadways,No,Wealthy,,1565.75
 0.6,21.0,Aluminium,10.5,19.97,Yes,No,No,,No,Working Class,No,349.03
 0.17,21.0,,6.22,83.74,No,No,No,Roadways,No,Working Class,,522.05
 0.19,11.0,Clay,3.89,16.4,Yes,No,No,Airways,Yes,Working Class,No,145.62
@@ -1218,13 +1218,13 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.7,8.0,Brass,4.55,17.48,No,No,No,Roadways,No,Working Class,No,257.71
 ,35.0,Bronze,45.02,67.03,No,No,No,Roadways,No,Working Class,No,585.99
 0.41,23.0,,4.39,22.43,Yes,Yes,Yes,Airways,No,Working Class,No,310.25
-0.85,19.0,Stone,,66.49,No,No,Yes,Airways,No,Working Class,Yes,
+0.85,19.0,Stone,178.245,66.49,No,No,Yes,Airways,No,Working Class,Yes,2473.645
 ,29.0,Aluminium,5.7,22.77,No,No,No,,No,Wealthy,No,-336.42
 0.11,28.0,Wood,4.68,16.82,No,No,No,Waterways,No,Working Class,,123.9
 0.61,14.0,,12.78,10.23,No,Yes,No,Airways,No,Working Class,No,317.49
 0.39,5.0,Brass,4.87,19.53,Yes,No,Yes,Waterways,No,Working Class,No,190.95
-0.9,51.0,Brass,,87.56,No,No,Yes,Airways,No,Working Class,No,
-,45.0,Marble,,69.33,No,No,No,,Yes,Working Class,No,
+0.9,51.0,Brass,178.245,87.56,No,No,Yes,Airways,No,Working Class,No,2473.645
+,45.0,Marble,178.245,69.33,No,No,No,,Yes,Working Class,No,2473.645
 0.24,12.0,Clay,3.28,10.47,No,Yes,No,Roadways,Yes,Wealthy,No,158.33
 0.79,16.0,Clay,6.32,14.91,No,No,No,Roadways,Yes,Working Class,Yes,429.19
 0.7,14.0,Stone,153.25,26.38,No,No,No,Roadways,No,Wealthy,Yes,-987.73
@@ -1232,7 +1232,7 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.64,12.0,Marble,126.14,63.39,No,No,Yes,Roadways,No,Working Class,No,980.0
 0.17,12.0,,6.23,21.87,Yes,No,No,Airways,No,Working Class,Yes,161.67
 0.27,16.0,Bronze,6.81,14.04,No,No,No,Waterways,No,Working Class,No,166.24
-0.85,21.0,Bronze,127.24,98.45,No,No,Yes,,No,Working Class,No,
+0.85,21.0,Bronze,127.24,98.45,No,No,Yes,,No,Working Class,No,2473.645
 0.31,4.0,Clay,3.66,13.46,No,No,Yes,Roadways,Yes,Working Class,No,143.48
 0.06,12.0,Stone,70.71,36.33,Yes,Yes,Yes,Airways,No,Working Class,No,662.64
 0.66,10.0,Clay,5.19,15.75,No,Yes,No,Airways,Yes,Wealthy,No,327.65
@@ -1248,30 +1248,30 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.69,21.0,Brass,40.1,91.67,No,No,No,Roadways,No,Working Class,Yes,1847.58
 0.87,7.0,Stone,5.22,19.81,No,Yes,Yes,Roadways,No,Working Class,No,-523.71
 0.42,8.0,Clay,5.65,23.2,No,No,No,Roadways,Yes,Working Class,No,226.33
-0.07,38.0,Marble,,97.84,No,No,Yes,Roadways,Yes,Working Class,Yes,
+0.07,38.0,Marble,178.245,97.84,No,No,Yes,Roadways,Yes,Working Class,Yes,2473.645
 0.82,9.0,Clay,3.88,21.07,No,Yes,No,Airways,Yes,Working Class,No,312.29
-0.8,33.0,Marble,,86.49,No,Yes,No,Airways,No,Working Class,No,
+0.8,33.0,Marble,178.245,86.49,No,Yes,No,Airways,No,Working Class,No,2473.645
 0.41,29.0,Brass,49.81,81.41,No,Yes,No,Airways,No,Wealthy,No,930.45
-0.78,19.0,Stone,,36.03,No,Yes,No,Roadways,No,Working Class,No,
+0.78,19.0,Stone,178.245,36.03,No,Yes,No,Roadways,No,Working Class,No,2473.645
 0.21,16.0,Brass,12.86,22.15,Yes,No,No,Waterways,No,Working Class,,206.01
 0.26,14.0,Wood,5.32,10.8,No,Yes,Yes,Roadways,No,Working Class,No,137.01
 0.09,30.0,Brass,74.06,71.49,Yes,No,No,,No,Working Class,,506.92
 ,18.0,Aluminium,6.54,22.78,No,No,No,Roadways,No,Working Class,No,163.13
 0.01,3.0,Clay,6.2,13.4,No,Yes,Yes,Airways,Yes,Wealthy,No,129.57
 0.16,18.0,Wood,4.19,12.11,No,Yes,No,Airways,No,Working Class,No,101.98
-0.57,36.0,Stone,,66.28,Yes,No,No,Waterways,No,Working Class,No,
+0.57,36.0,Stone,178.245,66.28,Yes,No,No,Waterways,No,Working Class,No,2473.645
 0.62,,Brass,31.65,41.76,No,Yes,Yes,,No,Wealthy,,1841.72
 0.4,19.0,Wood,3.71,19.07,No,Yes,Yes,Roadways,No,Working Class,No,208.35
 0.43,21.0,Brass,19.32,86.16,No,Yes,Yes,,No,Working Class,,945.68
-,41.0,Bronze,121.37,82.14,No,No,No,Waterways,No,Working Class,,
+,41.0,Bronze,121.37,82.14,No,No,No,Waterways,No,Working Class,,-1197.075
 0.67,17.0,Wood,6.0,11.04,No,No,No,,No,Wealthy,No,-280.22
-0.88,8.0,Stone,65.44,61.11,No,No,Yes,,No,Working Class,No,
+0.88,8.0,Stone,65.44,61.11,No,No,Yes,,No,Working Class,No,2473.645
 0.17,23.0,Aluminium,4.94,13.72,No,Yes,No,,No,Wealthy,No,141.1
 0.42,26.0,Aluminium,5.64,14.89,No,No,Yes,Roadways,No,Working Class,Yes,264.91
 0.47,5.0,Marble,6.82,14.99,Yes,No,Yes,Waterways,No,Working Class,No,-256.23
-0.22,22.0,Marble,,80.33,No,No,Yes,Airways,No,Wealthy,No,1875.01
-0.39,27.0,Stone,,25.48,Yes,Yes,Yes,Airways,No,Working Class,No,
-0.42,16.0,Stone,,61.25,Yes,Yes,No,Airways,No,Working Class,No,2429.06
+0.22,22.0,Marble,178.245,80.33,No,No,Yes,Airways,No,Wealthy,No,1875.01
+0.39,27.0,Stone,178.245,25.48,Yes,Yes,Yes,Airways,No,Working Class,No,2473.645
+0.42,16.0,Stone,178.245,61.25,Yes,Yes,No,Airways,No,Working Class,No,2429.06
 0.27,18.0,Clay,10.48,13.44,No,No,Yes,Roadways,Yes,Working Class,Yes,255.77
 0.14,28.0,Bronze,39.36,33.74,Yes,Yes,No,Airways,No,Wealthy,Yes,479.27
 0.27,8.0,Stone,25.65,77.68,Yes,Yes,Yes,Airways,No,Wealthy,No,-647.4
@@ -1279,17 +1279,17 @@ Artist Reputation,Height,Material,Price Of Sculpture,Base Shipping Price,Interna
 0.58,9.0,Bronze,6.64,15.25,Yes,No,Yes,Airways,No,Working Class,No,312.22
 0.2,4.0,Brass,3.37,14.88,No,Yes,No,Airways,No,Wealthy,Yes,171.61
 ,13.0,Clay,6.45,20.6,No,No,Yes,Roadways,Yes,Working Class,,307.72
-,34.0,,,50.47,Yes,No,No,,No,Working Class,No,
+,34.0,,178.245,50.47,Yes,No,No,,No,Working Class,No,2473.645
 0.15,19.0,Wood,6.65,20.93,No,No,Yes,,No,Working Class,No,172.95
 0.61,8.0,Brass,8.18,18.07,No,Yes,No,Airways,No,Working Class,No,462.62
 0.33,47.0,,37.95,34.26,Yes,No,No,Waterways,Yes,Working Class,Yes,535.11
 0.39,26.0,Aluminium,3.85,18.79,Yes,No,No,Waterways,No,Working Class,No,224.0
-0.97,28.0,Stone,,43.96,No,Yes,No,Airways,No,Working Class,,
+0.97,28.0,Stone,178.245,43.96,No,Yes,No,Airways,No,Working Class,,2473.645
 0.32,7.0,Wood,3.91,20.69,No,No,No,Waterways,No,Wealthy,No,157.05
 ,10.0,,12.42,31.79,No,No,No,,No,Working Class,,249.11
 0.43,6.0,Aluminium,6.88,24.1,No,Yes,Yes,Roadways,No,Wealthy,Yes,257.61
 0.27,13.0,Marble,7.13,43.07,Yes,Yes,No,,No,Working Class,No,385.04
-0.0,37.0,Marble,,65.27,Yes,No,Yes,Waterways,Yes,Working Class,No,
+0.0,37.0,Marble,178.245,65.27,Yes,No,Yes,Waterways,Yes,Working Class,No,2473.645
 0.1,21.0,Wood,4.73,18.8,Yes,No,Yes,Waterways,No,Wealthy,,157.78
 0.72,30.0,Wood,3.52,10.55,No,Yes,Yes,,No,Wealthy,No,422.6
 0.55,3.0,Stone,6.58,19.46,No,No,No,,No,Working Class,No,252.1

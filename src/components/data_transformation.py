@@ -45,10 +45,14 @@ class FeatureEngineering:
                 lower_limit = Q1 - 1.5 * IQR
                 upper_limit = Q3 + 1.5 * IQR
                 df[col] = np.where(
-                    (df[col] >= lower_limit) & (df[col] <= upper_limit),
-                    df[col],
-                    np.nan
-                )
+                  df[col] > upper_limit,
+                  upper_limit,
+                  np.where(
+                      df[col] < lower_limit,
+                      lower_limit,
+                      df[col]
+                  )
+            )
             return df
         except Exception as e:
             raise CustomException(e)
@@ -160,6 +164,7 @@ class DataTransformation:
       test_df=pd.DataFrame(test_arry)
       os.makedirs(os.path.dirname(self.data_transformation_config.transformed_train),exist_ok=True)
       train_df.to_csv(self.data_transformation_config.transformed_train,index=False)
+      
       logging.info('preproceesed train  data stored in Artifacts/DataTransformation/Transformed data/Transformed_train.csv')
       os.makedirs(os.path.dirname(self.data_transformation_config.transformed_test),exist_ok=True)
       test_df.to_csv(self.data_transformation_config.transformed_test)
