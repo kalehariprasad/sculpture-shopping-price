@@ -11,6 +11,7 @@ from src.logger import logging
 from src.exception import CustomException
 from src.components.data_transformation import FeatureEngineering
 from src.components.data_transformation import DataTransformation
+from src.components.model_training import Model_Trainer
 @dataclass
 class DataInjectionConfig:
     raw_train_file_path:str= RAW_TRAIN_DATASET_PATH
@@ -67,4 +68,6 @@ if __name__ == "__main__":
     out_liers=FeatureEngineering()
     train_path, test_path=obj.Initiate_data_injection() 
     transform_object=DataTransformation()
-    X_train, X_test, y_train, y_test = transform_object.initiate_data_transformation(train_path, test_path)
+    train_arry,test_arry= transform_object.initiate_data_transformation(train_path, test_path)
+    model_train=Model_Trainer()
+    model_train.initiate_model_training(train_arry,test_arry)

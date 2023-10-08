@@ -169,10 +169,11 @@ class DataTransformation:
       os.makedirs(os.path.dirname(self.data_transformation_config.transformed_test),exist_ok=True)
       test_df.to_csv(self.data_transformation_config.transformed_test)
       logging.info('preproceesed test data stored in Artifacts/DataTransformation/Transformed data/Transformed_test.csv')
+      logging.info(f'train array is:{train_arry} ')
+      logging.info(f'test array is:{test_arry} ')
 
 
-
-      return  X_train,X_test,y_train,y_test
+      return  train_arry,test_arry
 
     except Exception as e:
       raise CustomException(e, sys)

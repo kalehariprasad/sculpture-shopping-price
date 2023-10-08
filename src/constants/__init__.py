@@ -33,4 +33,6 @@ TRANSFORMED_DATA_FOLEDR='Transformed data'
 TRANSFORMED_TRAIN='Transformed_train.csv'
 TRANSFORMED_TEST='Transformed_test.csv'
 
-
+#model training
+MODEL_TRAINING="Model training"
+MODEL_OBJECT='model.pkl'
