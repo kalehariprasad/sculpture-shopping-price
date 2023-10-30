@@ -36,3 +36,14 @@ TRANSFORMED_TEST='Transformed_test.csv'
 #model training
 MODEL_TRAINING="Model training"
 MODEL_OBJECT='model.pkl'
+
+# batch prediction 
+PREDICTION_FOLDER='Prediction'
+BATCH_FE_FOLDER='prediction fe  data'
+BATCH_FE_DATA='fe_data.csv'
+BATCH_INPUT_FOLDER='batch prediction input'
+INPUT_CSV='batch input.csv'
+BATCH_OUTPUT_FOLDER='batch prediction output'
+OUTPUT_CSV='batch output.csv'
+
+

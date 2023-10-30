@@ -65,7 +65,6 @@ class DataInjection:
         
 if __name__ == "__main__":
     obj = DataInjection()
-    out_liers=FeatureEngineering()
     train_path, test_path=obj.Initiate_data_injection() 
     transform_object=DataTransformation()
     train_arry,test_arry= transform_object.initiate_data_transformation(train_path, test_path)

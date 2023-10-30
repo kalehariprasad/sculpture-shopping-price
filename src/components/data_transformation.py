@@ -128,14 +128,15 @@ class DataTransformation:
       test_df=pd.read_csv(test_path)
       logging.info('getting feature engineering object in initiate data transformsation')
       fe_obj=self.get_feature_engineering_object()
-      os.makedirs(os.path.dirname(self.data_transformation_config.feature_engineering_object_path),exist_ok=True)
-      save_object(
-        self.data_transformation_config.feature_engineering_object_path,fe_obj
-      )
+  
 
       logging.info('applying feature engineering pipeline in initiate data transformation')
 
       train_df_fe=fe_obj.fit_transform(train_df)
+      os.makedirs(os.path.dirname(self.data_transformation_config.feature_engineering_object_path),exist_ok=True)
+      save_object(
+        self.data_transformation_config.feature_engineering_object_path,fe_obj
+      )
       os.makedirs(os.path.dirname(self.data_transformation_config.feature_eng_train),exist_ok=True)
       train_df_fe.to_csv(self.data_transformation_config.feature_eng_train,index=False)
       logging.info('feature engineered train data stored in Artifact/Data Transformation/FE data')
