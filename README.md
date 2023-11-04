@@ -1,6 +1,5 @@
 # customer-shopping-price
 
-project Structure 
 '''
 project_name
 │
@@ -37,7 +36,9 @@ project_name
 ├── setup.py
 ├── requirements.txt
 └── pipeline.txt
+
 '''
+
 
 
 ptoject flow:
