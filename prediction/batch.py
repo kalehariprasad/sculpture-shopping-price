@@ -8,6 +8,7 @@ import numpy as np
 import pickle
 from src.Utils import load_model
 from sklearn.pipeline import Pipeline
+from typing import Any
 class BatchPredictionConfig:
     batch_input_file=BATCH_INPUT_FILE
     batch_fe_file=BATCH_FE_DATA_FILE
@@ -17,15 +18,12 @@ class BatchPredictionConfig:
     model_file_path=MODEL_OBJECT
     train_file=TRAIN_FILE_PATH
 class BatchPrediction:
-    def __init__(self,):
-        
-        self.batchpredictionconfig=BatchPredictionConfig()
+    def __init__(self):
+        self.batchpredictionconfig = BatchPredictionConfig()
 
-    def main(self,input_file_path):
-        self.input_file_path=input_file_path
+    def main(self,input_df):
+    
         try:
-
-
             with open(self.batchpredictionconfig.fe_file_path,'rb') as f:
                 feature_pipeline=pickle.load(f)
 
@@ -37,14 +35,16 @@ class BatchPrediction:
             feature_engineering_pipeline=Pipeline([
                 ('feature engineering pipeline',feature_pipeline)
             ])
-            df=pd.read_csv(self.input_file_path)
+      
             os.makedirs(os.path.dirname(self.batchpredictionconfig.batch_input_file),exist_ok=True)
-            df.to_csv(self.batchpredictionconfig.batch_input_file)
+            input_df.to_csv(self.batchpredictionconfig.batch_input_file)
             train_df=pd.read_csv(self.batchpredictionconfig.train_file)
          
             feature_engineering_pipeline.fit_transform(train_df)
 
-            fe_df=feature_engineering_pipeline.transform(df)
+            fe_df=feature_engineering_pipeline.transform(input_df)
+            if 'Cost' in fe_df.columns:
+                fe_df.drop('Cost', axis=1, inplace=True)
             os.makedirs(os.path.dirname(self.batchpredictionconfig.batch_fe_file),exist_ok=True)
             fe_df.to_csv(self.batchpredictionconfig.batch_fe_file)
             train_x = train_df.drop('Cost', axis=1)
@@ -54,27 +54,24 @@ class BatchPrediction:
             train_x_transformed=transformer.transform(train_x_fe)
                
             model.fit(train_x_transformed, train_y)
-
-          
-            fe_df.drop('Cost',axis=1,inplace=True)
             
             transformed_df=transformer.transform(fe_df)
 
             prediction=model.predict (transformed_df)
-            fe_df['prediction']=prediction
+            input_df['prediction']=prediction
             os.makedirs(os.path.dirname(self.batchpredictionconfig.batch_output),exist_ok=True)
-            fe_df.to_csv(self.batchpredictionconfig.batch_output)
+            input_df.to_csv(self.batchpredictionconfig.batch_output)
 
 
 
-            return prediction
+            return input_df
     
         except Exception as e:
-            raise CustomException(e, sys)
+            raise CustomException(e,sys)
 
     
 input_path=TEST_FILE_PATH
 if __name__ == "__main__":
     obj = BatchPrediction()
     prediction=obj.main(input_path)
-    print('Predicted values:', prediction)
+    print('Predicted df:', prediction)

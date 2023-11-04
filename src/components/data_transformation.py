@@ -1,6 +1,7 @@
 from src.constants import *
 from src.config.configuration import *
 import os,sys
+from typing import Any
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -33,7 +34,7 @@ class FeatureEngineering:
             cleaned_df = df.drop(excluded_columns, axis=1)
             return cleaned_df
         except Exception as e:
-            raise CustomException(e)
+            raise CustomException(e, sys)
 
     def remove_outliers(self, df):
         try:
@@ -55,16 +56,14 @@ class FeatureEngineering:
             )
             return df
         except Exception as e:
-            raise CustomException(e)
-
+            raise CustomException(e, sys)
     def transform(self, X):
         try:
             cleaned_df = self.Cleaning_Dataset(X)
             cleaned_df_no_outliers = self.remove_outliers(cleaned_df)
             return cleaned_df_no_outliers
         except Exception as e:
-            raise CustomException(e)
-
+            raise CustomException(e, sys)
     
 @dataclass
 class DataTransformationConfig():
@@ -151,6 +150,7 @@ class DataTransformation:
       save_object(self.data_transformation_config.processor_object_path,preprocessor_obj)
       target_column='Cost'
       X_train = train_df_fe.drop(target_column, axis=1)
+    
       X_train=preprocessor_obj.fit_transform(X_train)
       X_test = test_df_fe.drop(target_column, axis=1)  
       X_test=preprocessor_obj.transform(X_test)
@@ -170,8 +170,6 @@ class DataTransformation:
       os.makedirs(os.path.dirname(self.data_transformation_config.transformed_test),exist_ok=True)
       test_df.to_csv(self.data_transformation_config.transformed_test)
       logging.info('preproceesed test data stored in Artifacts/DataTransformation/Transformed data/Transformed_test.csv')
-      logging.info(f'train array is:{train_arry} ')
-      logging.info(f'test array is:{test_arry} ')
 
 
       return  train_arry,test_arry
