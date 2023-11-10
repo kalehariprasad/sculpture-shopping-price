@@ -68,7 +68,7 @@ class Model_Trainer:
                                                            models=models, param_grids=param_grid)
             
             logging.info(f'best model is :{best_model} with score of :{best_model_score}')
-            save_object(file_path=slef.model_trainer_config.model_path,obj=best_model)
+            save_object(file_path=self.model_trainer_config.model_path,obj=best_model)
             logging.info(f'modeel save to artifact/model training /model')
             print(f'best model is :{best_model} with score of :{best_model_score}')
             return best_model,best_model_score
