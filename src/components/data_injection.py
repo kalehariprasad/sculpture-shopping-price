@@ -4,6 +4,7 @@ import os,sys
 import opendatasets as od
 import pandas as pd
 import numpy as np
+from typing import Any
 import shutil
 from sklearn.model_selection import train_test_split
 from dataclasses import dataclass
@@ -69,4 +70,5 @@ if __name__ == "__main__":
     transform_object=DataTransformation()
     train_arry,test_arry= transform_object.initiate_data_transformation(train_path, test_path)
     model_train=Model_Trainer()
-    model_train.initiate_model_training(train_arry,test_arry)
+    model=model_train.initiate_model_trainer(train_arry,test_arry)
+    print(f'best model for this problem is {model}')

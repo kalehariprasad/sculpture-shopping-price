@@ -14,37 +14,39 @@ def save_object(file_path,obj):
                 pickle.dump(obj, file)
 
     except Exception as e:
-        raise CustomException(e)
+        raise CustomException(e,sys)
     
 
-def model_evaluation(X_train, y_train, X_test, y_test, models, param_grids):
+def evaluate_models(x_train, y_train, x_test, y_test, models,param ):
     try:
-         
         report = {}
 
-        for model_name, model in models.items():
-            param_grid = param_grids.get(model_name, {})  
-            grid_search = GridSearchCV(model, param_grid, scoring='r2', cv=5)
-            grid_search.fit(X_train, y_train)
+        for i in range(len(list(models))):
+            model = list(models.values())[i]
+            para=param[list(models.keys())[i]]
 
-            best_model = grid_search.best_estimator_  
-            y_train_pred = best_model.predict(X_train)
-            y_test_pred = best_model.predict(X_test)
+            gs = GridSearchCV(model,cv=3,param_grid=para)
+            gs.fit(x_train, y_train)
+
+            model.set_params(**gs.best_params_)
+            model.fit(x_train, y_train)
+
+            #model.fit(x_train, y_train)  # Train model
+
+            y_train_pred = model.predict(x_train)
+
+            y_test_pred = model.predict(x_test)
 
             train_model_score = r2_score(y_train, y_train_pred)
+
             test_model_score = r2_score(y_test, y_test_pred)
 
+            report[list(models.keys())[i]] = test_model_score
 
-            report[model_name] = test_model_score
-            best_model_name = max(report, key=report.get)
-            best_model = models[best_model_name]
-            best_model_score = report[best_model_name]
-            
-
-            return best_model,best_model_score
+        return report
     
     except Exception as e:
-        raise CustomException(e)
+        raise CustomException(e,sys)
     
 def load_model(file_path):
      
