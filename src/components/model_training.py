@@ -68,7 +68,6 @@ class Model_Trainer:
                     'n_estimators': [8, 16, 32, 64, 128, 256]
                 }
             }
-
             model_report = evaluate_models(x_train=x_train, y_train=y_train, x_test=x_test, y_test=y_test, models=models,param=params)
 
             best_model_score = max(sorted(model_report.values()))
