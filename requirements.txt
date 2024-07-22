@@ -6,4 +6,7 @@ scikit-learn
 opendatasets
 flask
 streamlit
+dvc 
+dvc-gdrive
+dvclive
 -e .

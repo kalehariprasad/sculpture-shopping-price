@@ -105,10 +105,11 @@ class DataTransformation:
           logging.info('applying feature engineering obj to both train data and test  data')
           train_df_fe = fe_obj.fit_transform(train_df)
           test_df_fe = fe_obj.transform(test_df)
+
           os.makedirs(os.path.dirname(self.data_transformation_config.feature_eng_train),exist_ok=True)
-          train_df_fe.to_csv(self.data_transformation_config.feature_eng_train)
+          train_df_fe.to_csv(self.data_transformation_config.feature_eng_train,index=False)
           os.makedirs(os.path.dirname(self.data_transformation_config.feature_eng_test),exist_ok=True)
-          test_df_fe.to_csv(self.data_transformation_config.feature_eng_test)
+          test_df_fe.to_csv(self.data_transformation_config.feature_eng_test,index=False)
           logging.info('stored both train and test data save after applying feature engineering object')
 
           logging.info('saving feature engineering object')
