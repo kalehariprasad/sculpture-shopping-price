@@ -9,4 +9,5 @@ streamlit
 dvc 
 dvc-gdrive
 dvclive
+awscli
 -e .
